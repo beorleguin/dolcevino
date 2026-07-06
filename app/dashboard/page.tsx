@@ -65,6 +65,7 @@ export default function Dashboard() {
   const [logged, setLogged] = useState(false);
   const [password, setPassword] = useState('');
   const [sidebarCollapsed, setSidebarCollapsed] = useState(false);
+  const [mobileSidebarOpen, setMobileSidebarOpen] = useState(false);
   const [status, setStatus] = useState<BodegasStatus>({ bodegas: {}, productos: {} });
   const [edits, setEdits] = useState<BodegasEdits>({ productos: {}, bodegas: {}, deletedProducts: {} });
   const [added, setAdded] = useState<BodegasAdded>([]);
@@ -278,10 +279,12 @@ export default function Dashboard() {
     </main>;
   }
 
-  if (catalog.length === 0) return <main className="crm"><Sidebar collapsed={sidebarCollapsed} setCollapsed={setSidebarCollapsed} logout={logout}/><section className={`crm-main ${sidebarCollapsed ? 'collapsed' : ''}`}><div className="crm-top"><h1>No hay bodegas cargadas</h1></div><div className="crm-panel"><p>Primero ejecutá:</p><pre className="codeblock">npm run build:bodegas</pre><button className="primary" onClick={() => setShowNewBodega(true)}>Crear bodega manual</button></div>{showNewBodega && <NewBodegaModal onClose={() => setShowNewBodega(false)} onSave={createBodega} />}</section></main>;
+  if (catalog.length === 0) return <main className={`crm ${mobileSidebarOpen ? 'menu-open' : ''}`}><button className="crm-mobile-menu-button" onClick={() => setMobileSidebarOpen(true)} aria-label="Abrir menú">☰</button><div className="crm-mobile-overlay" onClick={() => setMobileSidebarOpen(false)} /><Sidebar collapsed={sidebarCollapsed} setCollapsed={setSidebarCollapsed} logout={logout} mobileOpen={mobileSidebarOpen} closeMobile={() => setMobileSidebarOpen(false)} /><section className={`crm-main ${sidebarCollapsed ? 'collapsed' : ''}`}><div className="crm-top"><h1>No hay bodegas cargadas</h1></div><div className="crm-panel"><p>Primero ejecutá:</p><pre className="codeblock">npm run build:bodegas</pre><button className="primary" onClick={() => setShowNewBodega(true)}>Crear bodega manual</button></div>{showNewBodega && <NewBodegaModal onClose={() => setShowNewBodega(false)} onSave={createBodega} />}</section></main>;
 
-  return <main className="crm">
-    <Sidebar collapsed={sidebarCollapsed} setCollapsed={setSidebarCollapsed} logout={logout}/>
+  return <main className={`crm ${mobileSidebarOpen ? 'menu-open' : ''}`}>
+    <button className="crm-mobile-menu-button" onClick={() => setMobileSidebarOpen(true)} aria-label="Abrir menú">☰</button>
+    <div className="crm-mobile-overlay" onClick={() => setMobileSidebarOpen(false)} />
+    <Sidebar collapsed={sidebarCollapsed} setCollapsed={setSidebarCollapsed} logout={logout} mobileOpen={mobileSidebarOpen} closeMobile={() => setMobileSidebarOpen(false)} />
 
     <section className={`crm-main ${sidebarCollapsed ? 'collapsed' : ''}`}>
       <div className="crm-top">
@@ -326,21 +329,22 @@ export default function Dashboard() {
   </main>;
 }
 
-function Sidebar({ collapsed, setCollapsed, logout }: { collapsed: boolean; setCollapsed: (value: boolean) => void; logout: () => void }) {
-  return <aside className={`crm-sidebar ${collapsed ? 'collapsed' : ''}`}>
+function Sidebar({ collapsed, setCollapsed, logout, mobileOpen = false, closeMobile }: { collapsed: boolean; setCollapsed: (value: boolean) => void; logout: () => void; mobileOpen?: boolean; closeMobile?: () => void }) {
+  return <aside className={`crm-sidebar ${collapsed ? 'collapsed' : ''} ${mobileOpen ? 'mobile-open' : ''}`}>
+    <button className="sidebar-mobile-close" onClick={closeMobile} aria-label="Cerrar menú">×</button>
     <button className="sidebar-toggle" onClick={() => setCollapsed(!collapsed)} title={collapsed ? 'Abrir menú' : 'Ocultar menú'}>{collapsed ? '›' : '‹'}</button>
     <img src="/assets/logo_dolce_vino.png" alt="Dolce Vino" />
     <nav>
-      <Link className="active" href="/dashboard"><span>▦</span><b>Bodegas y vinos</b></Link>
-      <Link href="/dashboard/importador"><span>⇩</span><b>Importador</b></Link>
-      <Link href="/"><span>↗</span><b>Ver sitio</b></Link>
+      <Link className="active" href="/dashboard" onClick={closeMobile}><span>▦</span><b>Bodegas y vinos</b></Link>
+      <Link href="/dashboard/importador" onClick={closeMobile}><span>⇩</span><b>Importador</b></Link>
+      <Link href="/" onClick={closeMobile}><span>↗</span><b>Ver sitio</b></Link>
     </nav>
-    <button className="logout-btn" onClick={logout}><span>⎋</span><b>Cerrar sesión</b></button>
+    <button className="logout-btn" onClick={() => { closeMobile?.(); logout(); }}><span>⎋</span><b>Cerrar sesión</b></button>
   </aside>;
 }
 
 function WineTable({ rows, showBodega, toggleProduct, deleteProduct, editProduct }: { rows: ProductRow[]; showBodega: boolean; toggleProduct: (id: string, value: boolean) => void; deleteProduct: (id: string) => void; editProduct: (product: ProductRow) => void }) {
-  return <div className="crm-table-wrap"><table className="crm-table"><thead><tr>{showBodega && <th>Bodega</th>}<th>Nombre</th><th>Varietal</th><th>Tamaño</th><th>Precio</th><th>Recomendado</th><th>Visible</th><th></th></tr></thead><tbody>{rows.map((product) => <tr key={product.id} className={product.habilitado ? '' : 'muted-row'}>{showBodega && <td><b>{product.bodegaNombre}</b></td>}<td><b>{product.nombre}</b></td><td>{product.varietal}</td><td>{product.tamano || '750 ml'}</td><td>{product.precio ? `$ ${Number(product.precio).toLocaleString('es-AR')}` : 'Sin precio'}</td><td>{product.recomendado ? 'Sí' : 'No'}</td><td><input type="checkbox" checked={product.habilitado} onChange={e => toggleProduct(product.id, e.target.checked)} /></td><td className="icon-actions"><button title="Editar" onClick={() => editProduct(product)}>✎</button><button title="Eliminar" onClick={() => deleteProduct(product.id)}>×</button></td></tr>)}</tbody></table>{rows.length === 0 && <div className="empty-table">No hay vinos para mostrar con esos filtros.</div>}</div>;
+  return <div className="crm-table-wrap"><table className="crm-table"><thead><tr>{showBodega && <th>Bodega</th>}<th>Nombre</th><th>Varietal</th><th>Tamaño</th><th>Precio</th><th>Recomendado</th><th>Visible</th><th></th></tr></thead><tbody>{rows.map((product) => <tr key={product.id} className={product.habilitado ? '' : 'muted-row'}>{showBodega && <td data-label="Bodega"><b>{product.bodegaNombre}</b></td>}<td data-label="Nombre"><b>{product.nombre}</b></td><td data-label="Varietal">{product.varietal}</td><td data-label="Tamaño">{product.tamano || '750 ml'}</td><td data-label="Precio">{product.precio ? `$ ${Number(product.precio).toLocaleString('es-AR')}` : 'Sin precio'}</td><td data-label="Recomendado">{product.recomendado ? 'Sí' : 'No'}</td><td data-label="Visible"><input type="checkbox" checked={product.habilitado} onChange={e => toggleProduct(product.id, e.target.checked)} /></td><td className="icon-actions"><button title="Editar" onClick={() => editProduct(product)}>✎</button><button title="Eliminar" onClick={() => deleteProduct(product.id)}>×</button></td></tr>)}</tbody></table>{rows.length === 0 && <div className="empty-table">No hay vinos para mostrar con esos filtros.</div>}</div>;
 }
 
 function Pagination({ page, totalPages, setPage }: { page: number; totalPages: number; setPage: (value: number) => void }) {

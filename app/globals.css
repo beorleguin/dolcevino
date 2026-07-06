@@ -103,252 +103,384 @@ html, body { width: 100%; max-width: 100%; overflow-x: hidden !important; }
 @media(max-width:900px){.marquee-track.logo-track{gap:28px !important;animation-duration:540s !important}.winery-logo-img{width:230px !important;height:108px !important}.modal-switch-row{grid-template-columns:1fr}}
 @media(max-width:620px){.marquee-track.logo-track{gap:24px !important;animation-duration:580s !important}.winery-logo-img{width:210px !important;height:96px !important}}
 
-/* Ajuste solicitado: carrusel de bodegas con logos más grandes, más juntos y más lento */
-.logo-fade{
-  padding: 8px 0 10px !important;
-}
-.marquee-track.logo-track{
-  gap: 14px !important;
-  animation-duration: 720s !important;
-  align-items: center !important;
-}
-.winery-logo-img{
-  width: 430px !important;
-  height: 190px !important;
-  object-fit: contain !important;
-  transform: none !important;
-  opacity: .98 !important;
-}
-@media(max-width:1180px){
-  .marquee-track.logo-track{gap:12px !important;animation-duration:760s !important}
-  .winery-logo-img{width:360px !important;height:160px !important}
-}
-@media(max-width:900px){
-  .marquee-track.logo-track{gap:10px !important;animation-duration:800s !important}
-  .winery-logo-img{width:300px !important;height:135px !important}
-}
-@media(max-width:620px){
-  .marquee-track.logo-track{gap:8px !important;animation-duration:840s !important}
-  .winery-logo-img{width:245px !important;height:110px !important}
-}
-/* =========================================================
-   FIX V25 - Carrusel bodegas: 6 logos visibles, sin recuadro
-   Pegar al FINAL de app/globals.css
-   ========================================================= */
-
-/* Contenedor general: sin fondo negro extra, sin tarjeta, sin bordes */
-.winery-carousel,
-.bodegas-carousel,
-.logo-carousel,
-.brands-carousel,
-.wineries-carousel,
-.wineryLogos,
-.wineriesLogos,
-.logos-carousel,
-.brand-strip,
-.winery-strip {
-  width: 100% !important;
-  max-width: 1180px !important;
-  margin: 0 auto !important;
-  overflow: hidden !important;
-  position: relative !important;
-  background: transparent !important;
-  border: 0 !important;
-  box-shadow: none !important;
-  border-radius: 0 !important;
-  padding: 8px 0 !important;
-  min-height: 92px !important;
-}
-
-/* Quita overlays/fondos que generaban el rectángulo visual */
-.winery-carousel::before,
-.winery-carousel::after,
-.bodegas-carousel::before,
-.bodegas-carousel::after,
-.logo-carousel::before,
-.logo-carousel::after,
-.brands-carousel::before,
-.brands-carousel::after,
-.wineries-carousel::before,
-.wineries-carousel::after,
-.logos-carousel::before,
-.logos-carousel::after,
-.brand-strip::before,
-.brand-strip::after,
-.winery-strip::before,
-.winery-strip::after {
-  background: transparent !important;
-  display: none !important;
-}
-
-/* Track: línea continua, sin space-between ni separaciones gigantes */
-.winery-track,
-.bodegas-track,
-.logo-track,
-.brands-track,
-.wineries-track,
-.wineryLogos-track,
-.logos-track,
-.brand-track,
-.winery-strip-track {
-  display: flex !important;
-  align-items: center !important;
-  justify-content: flex-start !important;
-  gap: 14px !important;
-  width: max-content !important;
-  min-width: max-content !important;
-  animation: wineryLogosScrollV25 120s linear infinite !important;
-  will-change: transform !important;
-}
-
-/* Cada logo ocupa aprox. 1/6 del ancho del contenedor */
-.winery-logo-item,
-.bodega-logo-item,
-.logo-carousel-item,
-.brand-logo-item,
-.wineryLogoItem,
-.winery-logo,
-.brand-logo,
-.logo-item {
-  flex: 0 0 182px !important;
-  width: 182px !important;
-  min-width: 182px !important;
-  max-width: 182px !important;
-  height: 82px !important;
-  min-height: 82px !important;
-  max-height: 82px !important;
-  display: flex !important;
-  align-items: center !important;
-  justify-content: center !important;
-  background: transparent !important;
-  border: 0 !important;
-  box-shadow: none !important;
-  border-radius: 0 !important;
-  padding: 0 !important;
-  margin: 0 !important;
-}
-
-/* Logo grande, sin recorte */
-.winery-logo-item img,
-.bodega-logo-item img,
-.logo-carousel-item img,
-.brand-logo-item img,
-.wineryLogoItem img,
-.winery-logo img,
-.brand-logo img,
-.logo-item img {
-  width: auto !important;
-  height: auto !important;
-  max-width: 165px !important;
-  max-height: 72px !important;
-  object-fit: contain !important;
-  display: block !important;
-  opacity: 0.98 !important;
-  filter: drop-shadow(0 5px 12px rgba(201, 161, 74, 0.18)) !important;
-}
-
-/* Pausa al pasar el mouse */
-.winery-carousel:hover .winery-track,
-.bodegas-carousel:hover .bodegas-track,
-.logo-carousel:hover .logo-track,
-.brands-carousel:hover .brands-track,
-.wineries-carousel:hover .wineries-track,
-.logos-carousel:hover .logos-track,
-.brand-strip:hover .brand-track,
-.winery-strip:hover .winery-strip-track {
-  animation-play-state: paused !important;
-}
-
-@keyframes wineryLogosScrollV25 {
-  from {
-    transform: translateX(0);
+/* === v24 mobile public + CRM responsive fixes === */
+@media (max-width: 760px) {
+  /* Hero mobile: menos oscuro y con texto legible */
+  .hero {
+    height: 520px !important;
+    min-height: 520px !important;
   }
-  to {
-    transform: translateX(-50%);
+
+  .hero::before {
+    filter: brightness(1.2) contrast(1.02) saturate(1.03) !important;
+    background-position: 64% center !important;
+  }
+
+  .hero-shade {
+    background:
+      linear-gradient(180deg, rgba(5,5,5,.1) 0%, rgba(5,5,5,.36) 48%, rgba(5,5,5,.88) 100%),
+      linear-gradient(90deg, rgba(5,5,5,.86) 0%, rgba(5,5,5,.52) 52%, rgba(5,5,5,.16) 100%) !important;
+  }
+
+  .hero-layout {
+    align-items: flex-end !important;
+    padding-top: 120px !important;
+    padding-bottom: 46px !important;
+  }
+
+  .hero-content {
+    max-width: 100% !important;
+  }
+
+  .hero h1 {
+    font-size: 54px !important;
+  }
+
+  .hero p {
+    font-size: 15.5px !important;
+    line-height: 1.55 !important;
+    max-width: 94% !important;
+  }
+
+  /* Ocultar beneficios en mobile */
+  .features {
+    display: none !important;
   }
 }
 
-/* Tablet */
-@media (max-width: 900px) {
-  .winery-track,
-  .bodegas-track,
-  .logo-track,
-  .brands-track,
-  .wineries-track,
-  .wineryLogos-track,
-  .logos-track,
-  .brand-track,
-  .winery-strip-track {
+/* CRM responsive real */
+.crm-mobile-menu-button,
+.sidebar-mobile-close,
+.crm-mobile-overlay {
+  display: none;
+}
+
+@media (max-width: 860px) {
+  .crm {
+    background: #f4f0e8 !important;
+    min-height: 100vh !important;
+    overflow-x: hidden !important;
+    padding-top: 64px !important;
+  }
+
+  .crm-mobile-menu-button {
+    display: inline-flex !important;
+    position: fixed !important;
+    top: 14px !important;
+    left: 14px !important;
+    z-index: 120 !important;
+    width: 44px !important;
+    height: 44px !important;
+    align-items: center !important;
+    justify-content: center !important;
+    border: 1px solid rgba(159,116,64,.22) !important;
+    border-radius: 14px !important;
+    background: #fffaf1 !important;
+    color: #2c2118 !important;
+    box-shadow: 0 12px 30px rgba(40,25,10,.12) !important;
+    font-size: 22px !important;
+  }
+
+  .crm-mobile-overlay {
+    position: fixed !important;
+    inset: 0 !important;
+    z-index: 90 !important;
+    background: rgba(25, 18, 12, .48) !important;
+    backdrop-filter: blur(5px) !important;
+  }
+
+  .crm.menu-open .crm-mobile-overlay {
+    display: block !important;
+  }
+
+  .crm-sidebar {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: min(82vw, 310px) !important;
+    height: 100vh !important;
+    z-index: 110 !important;
+    transform: translateX(-104%) !important;
+    transition: transform .25s ease !important;
+    border-right: 1px solid rgba(159,116,64,.20) !important;
+    box-shadow: 24px 0 70px rgba(35, 24, 12, .26) !important;
+    overflow-y: auto !important;
+    overflow-x: hidden !important;
+  }
+
+  .crm-sidebar.mobile-open {
+    transform: translateX(0) !important;
+  }
+
+  .crm-sidebar.collapsed {
+    width: min(82vw, 310px) !important;
+  }
+
+  .crm-sidebar img,
+  .crm-sidebar.collapsed img {
+    width: 88px !important;
+    height: 88px !important;
+    margin-top: 22px !important;
+  }
+
+  .crm-sidebar.collapsed nav a b,
+  .crm-sidebar.collapsed .logout-btn b {
+    display: inline !important;
+  }
+
+  .crm-sidebar nav a,
+  .crm-sidebar.collapsed nav a,
+  .logout-btn,
+  .crm-sidebar.collapsed .logout-btn {
+    justify-content: flex-start !important;
+    width: 100% !important;
+  }
+
+  .sidebar-toggle {
+    display: none !important;
+  }
+
+  .sidebar-mobile-close {
+    display: inline-flex !important;
+    position: absolute !important;
+    top: 14px !important;
+    right: 14px !important;
+    width: 38px !important;
+    height: 38px !important;
+    align-items: center !important;
+    justify-content: center !important;
+    border-radius: 12px !important;
+    border: 1px solid rgba(199,154,93,.22) !important;
+    background: rgba(255,255,255,.08) !important;
+    color: #fff6df !important;
+    font-size: 24px !important;
+  }
+
+  .crm-main,
+  .crm-main.collapsed {
+    margin-left: 0 !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    padding: 16px !important;
+  }
+
+  .crm-top {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 14px !important;
+    padding-top: 0 !important;
+  }
+
+  .crm-top h1 {
+    font-size: 30px !important;
+    line-height: 1.05 !important;
+  }
+
+  .crm-subtitle {
+    font-size: 14px !important;
+  }
+
+  .crm-top-actions {
+    width: 100% !important;
+    display: grid !important;
+    grid-template-columns: 1fr !important;
     gap: 10px !important;
-    animation-duration: 105s !important;
   }
 
-  .winery-logo-item,
-  .bodega-logo-item,
-  .logo-carousel-item,
-  .brand-logo-item,
-  .wineryLogoItem,
-  .winery-logo,
-  .brand-logo,
-  .logo-item {
-    flex-basis: 145px !important;
-    width: 145px !important;
-    min-width: 145px !important;
-    max-width: 145px !important;
-    height: 72px !important;
+  .crm-top-actions a,
+  .crm-top-actions button {
+    width: 100% !important;
+    justify-content: center !important;
+    text-align: center !important;
   }
 
-  .winery-logo-item img,
-  .bodega-logo-item img,
-  .logo-carousel-item img,
-  .brand-logo-item img,
-  .wineryLogoItem img,
-  .winery-logo img,
-  .brand-logo img,
-  .logo-item img {
-    max-width: 132px !important;
-    max-height: 60px !important;
+  .crm-stats {
+    grid-template-columns: repeat(2, minmax(0,1fr)) !important;
+    gap: 10px !important;
+  }
+
+  .crm-stats article {
+    padding: 16px !important;
+    min-width: 0 !important;
+  }
+
+  .crm-stats b {
+    font-size: 28px !important;
+  }
+
+  .crm-panel {
+    border-radius: 22px !important;
+    padding: 16px !important;
+    max-width: 100% !important;
+    overflow: hidden !important;
+  }
+
+  .crm-filter-grid,
+  .table-toolbar {
+    grid-template-columns: 1fr !important;
+  }
+
+  .crm-filter-actions {
+    display: grid !important;
+    grid-template-columns: 1fr 1fr !important;
+    gap: 10px !important;
+  }
+
+  .modern-results-header {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 16px !important;
+  }
+
+  .modern-results-header h2 {
+    font-size: 25px !important;
+    line-height: 1.1 !important;
+  }
+
+  .crm-results-actions {
+    width: 100% !important;
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+  }
+
+  .crm-results-actions .primary,
+  .crm-results-actions .crm-switch {
+    width: 100% !important;
+  }
+
+  .crm-table-wrap {
+    overflow: visible !important;
+    border: 0 !important;
+    background: transparent !important;
+    box-shadow: none !important;
+  }
+
+  .crm-table {
+    min-width: 0 !important;
+    width: 100% !important;
+    border-collapse: separate !important;
+    border-spacing: 0 12px !important;
+  }
+
+  .crm-table thead {
+    display: none !important;
+  }
+
+  .crm-table tbody,
+  .crm-table tr,
+  .crm-table td {
+    display: block !important;
+    width: 100% !important;
+  }
+
+  .crm-table tr {
+    background: #fffdf8 !important;
+    border: 1px solid rgba(159,116,64,.16) !important;
+    border-radius: 18px !important;
+    padding: 12px !important;
+    box-shadow: 0 10px 24px rgba(73,51,23,.06) !important;
+  }
+
+  .crm-table td {
+    border: 0 !important;
+    padding: 7px 2px !important;
+    font-size: 14px !important;
+  }
+
+  .crm-table td:nth-child(1) b,
+  .crm-table td:nth-child(2) b {
+    font-size: 16px !important;
+    line-height: 1.25 !important;
+  }
+
+  .crm-table td::before {
+    display: block !important;
+    color: #9f7440 !important;
+    text-transform: uppercase !important;
+    letter-spacing: .08em !important;
+    font-size: 10px !important;
+    margin-bottom: 2px !important;
+  }
+
+  .crm-table td:nth-child(1)::before { content: 'Bodega'; }
+  .crm-table td:nth-child(2)::before { content: 'Nombre'; }
+  .crm-table td:nth-child(3)::before { content: 'Varietal'; }
+  .crm-table td:nth-child(4)::before { content: 'Tamaño'; }
+  .crm-table td:nth-child(5)::before { content: 'Precio'; }
+  .crm-table td:nth-child(6)::before { content: 'Recomendado'; }
+  .crm-table td:nth-child(7)::before { content: 'Visible'; }
+
+  .icon-actions {
+    display: flex !important;
+    gap: 8px !important;
+    padding-top: 10px !important;
+  }
+
+  .icon-actions::before {
+    display: none !important;
+  }
+
+  .icon-actions button {
+    width: 42px !important;
+    height: 38px !important;
+  }
+
+  .pagination {
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 10px !important;
+    margin-top: 16px !important;
+  }
+
+  .pagination button,
+  .pagination span {
+    width: 100% !important;
+    text-align: center !important;
+    justify-content: center !important;
+  }
+
+  .wine-modal,
+  .new-bodega-modal {
+    width: calc(100vw - 24px) !important;
+    max-height: calc(100vh - 24px) !important;
+    overflow-y: auto !important;
+    border-radius: 24px !important;
+  }
+
+  .wine-modal {
+    grid-template-columns: 1fr !important;
+  }
+
+  .wine-modal-image {
+    min-height: auto !important;
+    padding-top: 46px !important;
+  }
+
+  .wine-modal-stage {
+    height: 280px !important;
+  }
+
+  .two-cols,
+  .modal-switch-row {
+    grid-template-columns: 1fr !important;
   }
 }
 
-/* Mobile */
-@media (max-width: 520px) {
-  .winery-track,
-  .bodegas-track,
-  .logo-track,
-  .brands-track,
-  .wineries-track,
-  .wineryLogos-track,
-  .logos-track,
-  .brand-track,
-  .winery-strip-track {
-    gap: 8px !important;
+@media (max-width: 420px) {
+  .hero h1 {
+    font-size: 46px !important;
   }
 
-  .winery-logo-item,
-  .bodega-logo-item,
-  .logo-carousel-item,
-  .brand-logo-item,
-  .wineryLogoItem,
-  .winery-logo,
-  .brand-logo,
-  .logo-item {
-    flex-basis: 118px !important;
-    width: 118px !important;
-    min-width: 118px !important;
-    max-width: 118px !important;
-    height: 64px !important;
+  .crm-stats {
+    grid-template-columns: 1fr !important;
   }
 
-  .winery-logo-item img,
-  .bodega-logo-item img,
-  .logo-carousel-item img,
-  .brand-logo-item img,
-  .wineryLogoItem img,
-  .winery-logo img,
-  .brand-logo img,
-  .logo-item img {
-    max-width: 108px !important;
-    max-height: 52px !important;
+  .crm-filter-actions {
+    grid-template-columns: 1fr !important;
+  }
+}
+@media (max-width: 860px) {
+  .crm-table td[data-label]::before {
+    content: attr(data-label) !important;
   }
 }
