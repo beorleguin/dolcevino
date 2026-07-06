@@ -1,0 +1,3050 @@
+[
+  {
+    "nombre": "2456 wines",
+    "carpeta": "2456-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/2456-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/2456-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/2456-wines/logo-gold.png"
+  },
+  {
+    "nombre": "3sapas",
+    "carpeta": "3sapas",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/3sapas/logo-clean.png",
+    "logo_white": "/products/bodegas/3sapas/logo-white.png",
+    "logo_gold": "/products/bodegas/3sapas/logo-gold.png"
+  },
+  {
+    "nombre": "4 gatos locos",
+    "carpeta": "4-gatos-locos",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/4-gatos-locos/logo-clean.png",
+    "logo_white": "/products/bodegas/4-gatos-locos/logo-white.png",
+    "logo_gold": "/products/bodegas/4-gatos-locos/logo-gold.png"
+  },
+  {
+    "nombre": "abejorro wines",
+    "carpeta": "abejorro-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/abejorro-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/abejorro-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/abejorro-wines/logo-gold.png"
+  },
+  {
+    "nombre": "abel furlan",
+    "carpeta": "abel-furlan",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/abel-furlan/logo-clean.png",
+    "logo_white": "/products/bodegas/abel-furlan/logo-white.png",
+    "logo_gold": "/products/bodegas/abel-furlan/logo-gold.png"
+  },
+  {
+    "nombre": "abito",
+    "carpeta": "abito",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/abito/logo-clean.png",
+    "logo_white": "/products/bodegas/abito/logo-white.png",
+    "logo_gold": "/products/bodegas/abito/logo-gold.png"
+  },
+  {
+    "nombre": "abras",
+    "carpeta": "abras",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/abras/logo-clean.png",
+    "logo_white": "/products/bodegas/abras/logo-white.png",
+    "logo_gold": "/products/bodegas/abras/logo-gold.png"
+  },
+  {
+    "nombre": "absurdo wines",
+    "carpeta": "absurdo-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/absurdo-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/absurdo-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/absurdo-wines/logo-gold.png"
+  },
+  {
+    "nombre": "achaval ferrer",
+    "carpeta": "achaval-ferrer",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/achaval-ferrer/logo-clean.png",
+    "logo_white": "/products/bodegas/achaval-ferrer/logo-white.png",
+    "logo_gold": "/products/bodegas/achaval-ferrer/logo-gold.png"
+  },
+  {
+    "nombre": "acorazon abierto",
+    "carpeta": "acorazon-abierto",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/acorazon-abierto/logo-clean.png",
+    "logo_white": "/products/bodegas/acorazon-abierto/logo-white.png",
+    "logo_gold": "/products/bodegas/acorazon-abierto/logo-gold.png"
+  },
+  {
+    "nombre": "aguaquecanta",
+    "carpeta": "aguaquecanta",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/aguaquecanta/logo-clean.png",
+    "logo_white": "/products/bodegas/aguaquecanta/logo-white.png",
+    "logo_gold": "/products/bodegas/aguaquecanta/logo-gold.png"
+  },
+  {
+    "nombre": "agustin lanus wines",
+    "carpeta": "agustin-lanus-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/agustin-lanus-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/agustin-lanus-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/agustin-lanus-wines/logo-gold.png"
+  },
+  {
+    "nombre": "alandes",
+    "carpeta": "alandes",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/alandes/logo-clean.png",
+    "logo_white": "/products/bodegas/alandes/logo-white.png",
+    "logo_gold": "/products/bodegas/alandes/logo-gold.png"
+  },
+  {
+    "nombre": "albaflor",
+    "carpeta": "albaflor",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/albaflor/logo-clean.png",
+    "logo_white": "/products/bodegas/albaflor/logo-white.png",
+    "logo_gold": "/products/bodegas/albaflor/logo-gold.png"
+  },
+  {
+    "nombre": "alberto quiroga wines",
+    "carpeta": "alberto-quiroga-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/alberto-quiroga-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/alberto-quiroga-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/alberto-quiroga-wines/logo-gold.png"
+  },
+  {
+    "nombre": "alchimia wines",
+    "carpeta": "alchimia-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/alchimia-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/alchimia-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/alchimia-wines/logo-gold.png"
+  },
+  {
+    "nombre": "aleanna",
+    "carpeta": "aleanna",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/aleanna/logo-clean.png",
+    "logo_white": "/products/bodegas/aleanna/logo-white.png",
+    "logo_gold": "/products/bodegas/aleanna/logo-gold.png"
+  },
+  {
+    "nombre": "alfa crux",
+    "carpeta": "alfa-crux",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/alfa-crux/logo-clean.png",
+    "logo_white": "/products/bodegas/alfa-crux/logo-white.png",
+    "logo_gold": "/products/bodegas/alfa-crux/logo-gold.png"
+  },
+  {
+    "nombre": "alfredo roca",
+    "carpeta": "alfredo-roca",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/alfredo-roca/logo-clean.png",
+    "logo_white": "/products/bodegas/alfredo-roca/logo-white.png",
+    "logo_gold": "/products/bodegas/alfredo-roca/logo-gold.png"
+  },
+  {
+    "nombre": "alma austral",
+    "carpeta": "alma-austral",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/alma-austral/logo-clean.png",
+    "logo_white": "/products/bodegas/alma-austral/logo-white.png",
+    "logo_gold": "/products/bodegas/alma-austral/logo-gold.png"
+  },
+  {
+    "nombre": "alpamanta",
+    "carpeta": "alpamanta",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/alpamanta/logo-clean.png",
+    "logo_white": "/products/bodegas/alpamanta/logo-white.png",
+    "logo_gold": "/products/bodegas/alpamanta/logo-gold.png"
+  },
+  {
+    "nombre": "alpasion",
+    "carpeta": "alpasion",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/alpasion/logo-clean.png",
+    "logo_white": "/products/bodegas/alpasion/logo-white.png",
+    "logo_gold": "/products/bodegas/alpasion/logo-gold.png"
+  },
+  {
+    "nombre": "alta yari",
+    "carpeta": "alta-yari",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/alta-yari/logo-clean.png",
+    "logo_white": "/products/bodegas/alta-yari/logo-white.png",
+    "logo_gold": "/products/bodegas/alta-yari/logo-gold.png"
+  },
+  {
+    "nombre": "altaland",
+    "carpeta": "altaland",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/altaland/logo-clean.png",
+    "logo_white": "/products/bodegas/altaland/logo-white.png",
+    "logo_gold": "/products/bodegas/altaland/logo-gold.png"
+  },
+  {
+    "nombre": "altaluvia",
+    "carpeta": "altaluvia",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/altaluvia/logo-clean.png",
+    "logo_white": "/products/bodegas/altaluvia/logo-white.png",
+    "logo_gold": "/products/bodegas/altaluvia/logo-gold.png"
+  },
+  {
+    "nombre": "altar uco",
+    "carpeta": "altar-uco",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/altar-uco/logo-clean.png",
+    "logo_white": "/products/bodegas/altar-uco/logo-white.png",
+    "logo_gold": "/products/bodegas/altar-uco/logo-gold.png"
+  },
+  {
+    "nombre": "altavista",
+    "carpeta": "altavista",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/altavista/logo-clean.png",
+    "logo_white": "/products/bodegas/altavista/logo-white.png",
+    "logo_gold": "/products/bodegas/altavista/logo-gold.png"
+  },
+  {
+    "nombre": "altieri",
+    "carpeta": "altieri",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/altieri/logo-clean.png",
+    "logo_white": "/products/bodegas/altieri/logo-white.png",
+    "logo_gold": "/products/bodegas/altieri/logo-gold.png"
+  },
+  {
+    "nombre": "altocedro",
+    "carpeta": "altocedro",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/altocedro/logo-clean.png",
+    "logo_white": "/products/bodegas/altocedro/logo-white.png",
+    "logo_gold": "/products/bodegas/altocedro/logo-gold.png"
+  },
+  {
+    "nombre": "altos las hormigas",
+    "carpeta": "altos-las-hormigas",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/altos-las-hormigas/logo-clean.png",
+    "logo_white": "/products/bodegas/altos-las-hormigas/logo-white.png",
+    "logo_gold": "/products/bodegas/altos-las-hormigas/logo-gold.png"
+  },
+  {
+    "nombre": "altus",
+    "carpeta": "altus",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/altus/logo-clean.png",
+    "logo_white": "/products/bodegas/altus/logo-white.png",
+    "logo_gold": "/products/bodegas/altus/logo-gold.png"
+  },
+  {
+    "nombre": "amansado",
+    "carpeta": "amansado",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/amansado/logo-clean.png",
+    "logo_white": "/products/bodegas/amansado/logo-white.png",
+    "logo_gold": "/products/bodegas/amansado/logo-gold.png"
+  },
+  {
+    "nombre": "anaia",
+    "carpeta": "anaia",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/anaia/logo-clean.png",
+    "logo_white": "/products/bodegas/anaia/logo-white.png",
+    "logo_gold": "/products/bodegas/anaia/logo-gold.png"
+  },
+  {
+    "nombre": "analema wines",
+    "carpeta": "analema-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/analema-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/analema-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/analema-wines/logo-gold.png"
+  },
+  {
+    "nombre": "andeluna",
+    "carpeta": "andeluna",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/andeluna/logo-clean.png",
+    "logo_white": "/products/bodegas/andeluna/logo-white.png",
+    "logo_gold": "/products/bodegas/andeluna/logo-gold.png"
+  },
+  {
+    "nombre": "aniapa",
+    "carpeta": "aniapa",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/aniapa/logo-clean.png",
+    "logo_white": "/products/bodegas/aniapa/logo-white.png",
+    "logo_gold": "/products/bodegas/aniapa/logo-gold.png"
+  },
+  {
+    "nombre": "antigal",
+    "carpeta": "antigal",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/antigal/logo-clean.png",
+    "logo_white": "/products/bodegas/antigal/logo-white.png",
+    "logo_gold": "/products/bodegas/antigal/logo-gold.png"
+  },
+  {
+    "nombre": "antucura",
+    "carpeta": "antucura",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/antucura/logo-clean.png",
+    "logo_white": "/products/bodegas/antucura/logo-white.png",
+    "logo_gold": "/products/bodegas/antucura/logo-gold.png"
+  },
+  {
+    "nombre": "appalachia wines",
+    "carpeta": "appalachia-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/appalachia-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/appalachia-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/appalachia-wines/logo-gold.png"
+  },
+  {
+    "nombre": "araucana",
+    "carpeta": "araucana",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/araucana/logo-clean.png",
+    "logo_white": "/products/bodegas/araucana/logo-white.png",
+    "logo_gold": "/products/bodegas/araucana/logo-gold.png"
+  },
+  {
+    "nombre": "argento",
+    "carpeta": "argento",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/argento/logo-clean.png",
+    "logo_white": "/products/bodegas/argento/logo-white.png",
+    "logo_gold": "/products/bodegas/argento/logo-gold.png"
+  },
+  {
+    "nombre": "aristides",
+    "carpeta": "aristides",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/aristides/logo-clean.png",
+    "logo_white": "/products/bodegas/aristides/logo-white.png",
+    "logo_gold": "/products/bodegas/aristides/logo-gold.png"
+  },
+  {
+    "nombre": "atamisque",
+    "carpeta": "atamisque",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/atamisque/logo-clean.png",
+    "logo_white": "/products/bodegas/atamisque/logo-white.png",
+    "logo_gold": "/products/bodegas/atamisque/logo-gold.png"
+  },
+  {
+    "nombre": "bacardi",
+    "carpeta": "bacardi",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/bacardi/logo-clean.png",
+    "logo_white": "/products/bodegas/bacardi/logo-white.png",
+    "logo_gold": "/products/bodegas/bacardi/logo-gold.png"
+  },
+  {
+    "nombre": "bataraz",
+    "carpeta": "bataraz",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/bataraz/logo-clean.png",
+    "logo_white": "/products/bodegas/bataraz/logo-white.png",
+    "logo_gold": "/products/bodegas/bataraz/logo-gold.png"
+  },
+  {
+    "nombre": "bemberg",
+    "carpeta": "bemberg",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/bemberg/logo-clean.png",
+    "logo_white": "/products/bodegas/bemberg/logo-white.png",
+    "logo_gold": "/products/bodegas/bemberg/logo-gold.png"
+  },
+  {
+    "nombre": "bendito pecado",
+    "carpeta": "bendito-pecado",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/bendito-pecado/logo-clean.png",
+    "logo_white": "/products/bodegas/bendito-pecado/logo-white.png",
+    "logo_gold": "/products/bodegas/bendito-pecado/logo-gold.png"
+  },
+  {
+    "nombre": "benegas",
+    "carpeta": "benegas",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/benegas/logo-clean.png",
+    "logo_white": "/products/bodegas/benegas/logo-white.png",
+    "logo_gold": "/products/bodegas/benegas/logo-gold.png"
+  },
+  {
+    "nombre": "benoit",
+    "carpeta": "benoit",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/benoit/logo-clean.png",
+    "logo_white": "/products/bodegas/benoit/logo-white.png",
+    "logo_gold": "/products/bodegas/benoit/logo-gold.png"
+  },
+  {
+    "nombre": "berbora rosier",
+    "carpeta": "berbora-rosier",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/berbora-rosier/logo-clean.png",
+    "logo_white": "/products/bodegas/berbora-rosier/logo-white.png",
+    "logo_gold": "/products/bodegas/berbora-rosier/logo-gold.png"
+  },
+  {
+    "nombre": "bianchi",
+    "carpeta": "bianchi",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/bianchi/logo-clean.png",
+    "logo_white": "/products/bodegas/bianchi/logo-white.png",
+    "logo_gold": "/products/bodegas/bianchi/logo-gold.png"
+  },
+  {
+    "nombre": "biplano",
+    "carpeta": "biplano",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/biplano/logo-clean.png",
+    "logo_white": "/products/bodegas/biplano/logo-white.png",
+    "logo_gold": "/products/bodegas/biplano/logo-gold.png"
+  },
+  {
+    "nombre": "bira wines",
+    "carpeta": "bira-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/bira-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/bira-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/bira-wines/logo-gold.png"
+  },
+  {
+    "nombre": "bo bo wines",
+    "carpeta": "bo-bo-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/bo-bo-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/bo-bo-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/bo-bo-wines/logo-gold.png"
+  },
+  {
+    "nombre": "bodega budeguer",
+    "carpeta": "bodega-budeguer",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/bodega-budeguer/logo-clean.png",
+    "logo_white": "/products/bodegas/bodega-budeguer/logo-white.png",
+    "logo_gold": "/products/bodegas/bodega-budeguer/logo-gold.png"
+  },
+  {
+    "nombre": "bodega cecchin",
+    "carpeta": "bodega-cecchin",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/bodega-cecchin/logo-clean.png",
+    "logo_white": "/products/bodegas/bodega-cecchin/logo-white.png",
+    "logo_gold": "/products/bodegas/bodega-cecchin/logo-gold.png"
+  },
+  {
+    "nombre": "bodega del carmen",
+    "carpeta": "bodega-del-carmen",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/bodega-del-carmen/logo-clean.png",
+    "logo_white": "/products/bodegas/bodega-del-carmen/logo-white.png",
+    "logo_gold": "/products/bodegas/bodega-del-carmen/logo-gold.png"
+  },
+  {
+    "nombre": "bodega del desierto",
+    "carpeta": "bodega-del-desierto",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/bodega-del-desierto/logo-clean.png",
+    "logo_white": "/products/bodegas/bodega-del-desierto/logo-white.png",
+    "logo_gold": "/products/bodegas/bodega-del-desierto/logo-gold.png"
+  },
+  {
+    "nombre": "bodega enrique foster",
+    "carpeta": "bodega-enrique-foster",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/bodega-enrique-foster/logo-clean.png",
+    "logo_white": "/products/bodegas/bodega-enrique-foster/logo-white.png",
+    "logo_gold": "/products/bodegas/bodega-enrique-foster/logo-gold.png"
+  },
+  {
+    "nombre": "bodega haarth",
+    "carpeta": "bodega-haarth",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/bodega-haarth/logo-clean.png",
+    "logo_white": "/products/bodegas/bodega-haarth/logo-white.png",
+    "logo_gold": "/products/bodegas/bodega-haarth/logo-gold.png"
+  },
+  {
+    "nombre": "bodega los toneles",
+    "carpeta": "bodega-los-toneles",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/bodega-los-toneles/logo-clean.png",
+    "logo_white": "/products/bodegas/bodega-los-toneles/logo-white.png",
+    "logo_gold": "/products/bodegas/bodega-los-toneles/logo-gold.png"
+  },
+  {
+    "nombre": "bodega vila",
+    "carpeta": "bodega-vila",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/bodega-vila/logo-clean.png",
+    "logo_white": "/products/bodegas/bodega-vila/logo-white.png",
+    "logo_gold": "/products/bodegas/bodega-vila/logo-gold.png"
+  },
+  {
+    "nombre": "bodega vistalba",
+    "carpeta": "bodega-vistalba",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/bodega-vistalba/logo-clean.png",
+    "logo_white": "/products/bodegas/bodega-vistalba/logo-white.png",
+    "logo_gold": "/products/bodegas/bodega-vistalba/logo-gold.png"
+  },
+  {
+    "nombre": "bodegas caro",
+    "carpeta": "bodegas-caro",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/bodegas-caro/logo-clean.png",
+    "logo_white": "/products/bodegas/bodegas-caro/logo-white.png",
+    "logo_gold": "/products/bodegas/bodegas-caro/logo-gold.png"
+  },
+  {
+    "nombre": "bodegas lopez",
+    "carpeta": "bodegas-lopez",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/bodegas-lopez/logo-clean.png",
+    "logo_white": "/products/bodegas/bodegas-lopez/logo-white.png",
+    "logo_gold": "/products/bodegas/bodegas-lopez/logo-gold.png"
+  },
+  {
+    "nombre": "bodegas teho",
+    "carpeta": "bodegas-teho",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/bodegas-teho/logo-clean.png",
+    "logo_white": "/products/bodegas/bodegas-teho/logo-white.png",
+    "logo_gold": "/products/bodegas/bodegas-teho/logo-gold.png"
+  },
+  {
+    "nombre": "bols",
+    "carpeta": "bols",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/bols/logo-clean.png",
+    "logo_white": "/products/bodegas/bols/logo-white.png",
+    "logo_gold": "/products/bodegas/bols/logo-gold.png"
+  },
+  {
+    "nombre": "bombay",
+    "carpeta": "bombay",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/bombay/logo-clean.png",
+    "logo_white": "/products/bodegas/bombay/logo-white.png",
+    "logo_gold": "/products/bodegas/bombay/logo-gold.png"
+  },
+  {
+    "nombre": "bonomo montiel",
+    "carpeta": "bonomo-montiel",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/bonomo-montiel/logo-clean.png",
+    "logo_white": "/products/bodegas/bonomo-montiel/logo-white.png",
+    "logo_gold": "/products/bodegas/bonomo-montiel/logo-gold.png"
+  },
+  {
+    "nombre": "bressia",
+    "carpeta": "bressia",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/bressia/logo-clean.png",
+    "logo_white": "/products/bodegas/bressia/logo-white.png",
+    "logo_gold": "/products/bodegas/bressia/logo-gold.png"
+  },
+  {
+    "nombre": "brotar",
+    "carpeta": "brotar",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/brotar/logo-clean.png",
+    "logo_white": "/products/bodegas/brotar/logo-white.png",
+    "logo_gold": "/products/bodegas/brotar/logo-gold.png"
+  },
+  {
+    "nombre": "caelum",
+    "carpeta": "caelum",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/caelum/logo-clean.png",
+    "logo_white": "/products/bodegas/caelum/logo-white.png",
+    "logo_gold": "/products/bodegas/caelum/logo-gold.png"
+  },
+  {
+    "nombre": "calamaco",
+    "carpeta": "calamaco",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/calamaco/logo-clean.png",
+    "logo_white": "/products/bodegas/calamaco/logo-white.png",
+    "logo_gold": "/products/bodegas/calamaco/logo-gold.png"
+  },
+  {
+    "nombre": "caligiore",
+    "carpeta": "caligiore",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/caligiore/logo-clean.png",
+    "logo_white": "/products/bodegas/caligiore/logo-white.png",
+    "logo_gold": "/products/bodegas/caligiore/logo-gold.png"
+  },
+  {
+    "nombre": "callejon ortega",
+    "carpeta": "callejon-ortega",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/callejon-ortega/logo-clean.png",
+    "logo_white": "/products/bodegas/callejon-ortega/logo-white.png",
+    "logo_gold": "/products/bodegas/callejon-ortega/logo-gold.png"
+  },
+  {
+    "nombre": "calyptra",
+    "carpeta": "calyptra",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/calyptra/logo-clean.png",
+    "logo_white": "/products/bodegas/calyptra/logo-white.png",
+    "logo_gold": "/products/bodegas/calyptra/logo-gold.png"
+  },
+  {
+    "nombre": "canopus",
+    "carpeta": "canopus",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/canopus/logo-clean.png",
+    "logo_white": "/products/bodegas/canopus/logo-white.png",
+    "logo_gold": "/products/bodegas/canopus/logo-gold.png"
+  },
+  {
+    "nombre": "cara sur",
+    "carpeta": "cara-sur",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/cara-sur/logo-clean.png",
+    "logo_white": "/products/bodegas/cara-sur/logo-white.png",
+    "logo_gold": "/products/bodegas/cara-sur/logo-gold.png"
+  },
+  {
+    "nombre": "carinae",
+    "carpeta": "carinae",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/carinae/logo-clean.png",
+    "logo_white": "/products/bodegas/carinae/logo-white.png",
+    "logo_gold": "/products/bodegas/carinae/logo-gold.png"
+  },
+  {
+    "nombre": "carmelo patti",
+    "carpeta": "carmelo-patti",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/carmelo-patti/logo-clean.png",
+    "logo_white": "/products/bodegas/carmelo-patti/logo-white.png",
+    "logo_gold": "/products/bodegas/carmelo-patti/logo-gold.png"
+  },
+  {
+    "nombre": "carmine granata",
+    "carpeta": "carmine-granata",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/carmine-granata/logo-clean.png",
+    "logo_white": "/products/bodegas/carmine-granata/logo-white.png",
+    "logo_gold": "/products/bodegas/carmine-granata/logo-gold.png"
+  },
+  {
+    "nombre": "casa petrini",
+    "carpeta": "casa-petrini",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/casa-petrini/logo-clean.png",
+    "logo_white": "/products/bodegas/casa-petrini/logo-white.png",
+    "logo_gold": "/products/bodegas/casa-petrini/logo-gold.png"
+  },
+  {
+    "nombre": "casa tano",
+    "carpeta": "casa-tano",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/casa-tano/logo-clean.png",
+    "logo_white": "/products/bodegas/casa-tano/logo-white.png",
+    "logo_gold": "/products/bodegas/casa-tano/logo-gold.png"
+  },
+  {
+    "nombre": "casarena",
+    "carpeta": "casarena",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/casarena/logo-clean.png",
+    "logo_white": "/products/bodegas/casarena/logo-white.png",
+    "logo_gold": "/products/bodegas/casarena/logo-gold.png"
+  },
+  {
+    "nombre": "casir dos santos",
+    "carpeta": "casir-dos-santos",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/casir-dos-santos/logo-clean.png",
+    "logo_white": "/products/bodegas/casir-dos-santos/logo-white.png",
+    "logo_gold": "/products/bodegas/casir-dos-santos/logo-gold.png"
+  },
+  {
+    "nombre": "casucci",
+    "carpeta": "casucci",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/casucci/logo-clean.png",
+    "logo_white": "/products/bodegas/casucci/logo-white.png",
+    "logo_gold": "/products/bodegas/casucci/logo-gold.png"
+  },
+  {
+    "nombre": "catena zapata",
+    "carpeta": "catena-zapata",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/catena-zapata/logo-clean.png",
+    "logo_white": "/products/bodegas/catena-zapata/logo-white.png",
+    "logo_gold": "/products/bodegas/catena-zapata/logo-gold.png"
+  },
+  {
+    "nombre": "cava gentile",
+    "carpeta": "cava-gentile",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/cava-gentile/logo-clean.png",
+    "logo_white": "/products/bodegas/cava-gentile/logo-white.png",
+    "logo_gold": "/products/bodegas/cava-gentile/logo-gold.png"
+  },
+  {
+    "nombre": "centenario aceites",
+    "carpeta": "centenario-aceites",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/centenario-aceites/logo-clean.png",
+    "logo_white": "/products/bodegas/centenario-aceites/logo-white.png",
+    "logo_gold": "/products/bodegas/centenario-aceites/logo-gold.png"
+  },
+  {
+    "nombre": "chacho",
+    "carpeta": "chacho",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/chacho/logo-clean.png",
+    "logo_white": "/products/bodegas/chacho/logo-white.png",
+    "logo_gold": "/products/bodegas/chacho/logo-gold.png"
+  },
+  {
+    "nombre": "chacra",
+    "carpeta": "chacra",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/chacra/logo-clean.png",
+    "logo_white": "/products/bodegas/chacra/logo-white.png",
+    "logo_gold": "/products/bodegas/chacra/logo-gold.png"
+  },
+  {
+    "nombre": "chakana",
+    "carpeta": "chakana",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/chakana/logo-clean.png",
+    "logo_white": "/products/bodegas/chakana/logo-white.png",
+    "logo_gold": "/products/bodegas/chakana/logo-gold.png"
+  },
+  {
+    "nombre": "chanarmuyo",
+    "carpeta": "chanarmuyo",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/chanarmuyo/logo-clean.png",
+    "logo_white": "/products/bodegas/chanarmuyo/logo-white.png",
+    "logo_gold": "/products/bodegas/chanarmuyo/logo-gold.png"
+  },
+  {
+    "nombre": "chandon",
+    "carpeta": "chandon",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/chandon/logo-clean.png",
+    "logo_white": "/products/bodegas/chandon/logo-white.png",
+    "logo_gold": "/products/bodegas/chandon/logo-gold.png"
+  },
+  {
+    "nombre": "cimarron wines",
+    "carpeta": "cimarron-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/cimarron-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/cimarron-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/cimarron-wines/logo-gold.png"
+  },
+  {
+    "nombre": "cinco sentidos",
+    "carpeta": "cinco-sentidos",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/cinco-sentidos/logo-clean.png",
+    "logo_white": "/products/bodegas/cinco-sentidos/logo-white.png",
+    "logo_gold": "/products/bodegas/cinco-sentidos/logo-gold.png"
+  },
+  {
+    "nombre": "cittanina",
+    "carpeta": "cittanina",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/cittanina/logo-clean.png",
+    "logo_white": "/products/bodegas/cittanina/logo-white.png",
+    "logo_gold": "/products/bodegas/cittanina/logo-gold.png"
+  },
+  {
+    "nombre": "claroscuro",
+    "carpeta": "claroscuro",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/claroscuro/logo-clean.png",
+    "logo_white": "/products/bodegas/claroscuro/logo-white.png",
+    "logo_gold": "/products/bodegas/claroscuro/logo-gold.png"
+  },
+  {
+    "nombre": "clos de chacras",
+    "carpeta": "clos-de-chacras",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/clos-de-chacras/logo-clean.png",
+    "logo_white": "/products/bodegas/clos-de-chacras/logo-white.png",
+    "logo_gold": "/products/bodegas/clos-de-chacras/logo-gold.png"
+  },
+  {
+    "nombre": "clos de los siete",
+    "carpeta": "clos-de-los-siete",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/clos-de-los-siete/logo-clean.png",
+    "logo_white": "/products/bodegas/clos-de-los-siete/logo-white.png",
+    "logo_gold": "/products/bodegas/clos-de-los-siete/logo-gold.png"
+  },
+  {
+    "nombre": "colome",
+    "carpeta": "colome",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/colome/logo-clean.png",
+    "logo_white": "/products/bodegas/colome/logo-white.png",
+    "logo_gold": "/products/bodegas/colome/logo-gold.png"
+  },
+  {
+    "nombre": "colosso wines",
+    "carpeta": "colosso-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/colosso-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/colosso-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/colosso-wines/logo-gold.png"
+  },
+  {
+    "nombre": "concha y toro",
+    "carpeta": "concha-y-toro",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/concha-y-toro/logo-clean.png",
+    "logo_white": "/products/bodegas/concha-y-toro/logo-white.png",
+    "logo_gold": "/products/bodegas/concha-y-toro/logo-gold.png"
+  },
+  {
+    "nombre": "consciente mente viticultores",
+    "carpeta": "consciente-mente-viticultores",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/consciente-mente-viticultores/logo-clean.png",
+    "logo_white": "/products/bodegas/consciente-mente-viticultores/logo-white.png",
+    "logo_gold": "/products/bodegas/consciente-mente-viticultores/logo-gold.png"
+  },
+  {
+    "nombre": "contra corriente",
+    "carpeta": "contra-corriente",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/contra-corriente/logo-clean.png",
+    "logo_white": "/products/bodegas/contra-corriente/logo-white.png",
+    "logo_gold": "/products/bodegas/contra-corriente/logo-gold.png"
+  },
+  {
+    "nombre": "corazon del sol",
+    "carpeta": "corazon-del-sol",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/corazon-del-sol/logo-clean.png",
+    "logo_white": "/products/bodegas/corazon-del-sol/logo-white.png",
+    "logo_gold": "/products/bodegas/corazon-del-sol/logo-gold.png"
+  },
+  {
+    "nombre": "corbeau wines",
+    "carpeta": "corbeau-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/corbeau-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/corbeau-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/corbeau-wines/logo-gold.png"
+  },
+  {
+    "nombre": "crotta",
+    "carpeta": "crotta",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/crotta/logo-clean.png",
+    "logo_white": "/products/bodegas/crotta/logo-white.png",
+    "logo_gold": "/products/bodegas/crotta/logo-gold.png"
+  },
+  {
+    "nombre": "cruzat",
+    "carpeta": "cruzat",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/cruzat/logo-clean.png",
+    "logo_white": "/products/bodegas/cruzat/logo-white.png",
+    "logo_gold": "/products/bodegas/cruzat/logo-gold.png"
+  },
+  {
+    "nombre": "cuarto dominio",
+    "carpeta": "cuarto-dominio",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/cuarto-dominio/logo-clean.png",
+    "logo_white": "/products/bodegas/cuarto-dominio/logo-white.png",
+    "logo_gold": "/products/bodegas/cuarto-dominio/logo-gold.png"
+  },
+  {
+    "nombre": "cuarto surco",
+    "carpeta": "cuarto-surco",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/cuarto-surco/logo-clean.png",
+    "logo_white": "/products/bodegas/cuarto-surco/logo-white.png",
+    "logo_gold": "/products/bodegas/cuarto-surco/logo-gold.png"
+  },
+  {
+    "nombre": "cuchillo de palo",
+    "carpeta": "cuchillo-de-palo",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/cuchillo-de-palo/logo-clean.png",
+    "logo_white": "/products/bodegas/cuchillo-de-palo/logo-white.png",
+    "logo_gold": "/products/bodegas/cuchillo-de-palo/logo-gold.png"
+  },
+  {
+    "nombre": "cuvelier los andes",
+    "carpeta": "cuvelier-los-andes",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/cuvelier-los-andes/logo-clean.png",
+    "logo_white": "/products/bodegas/cuvelier-los-andes/logo-white.png",
+    "logo_gold": "/products/bodegas/cuvelier-los-andes/logo-gold.png"
+  },
+  {
+    "nombre": "cynar",
+    "carpeta": "cynar",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/cynar/logo-clean.png",
+    "logo_white": "/products/bodegas/cynar/logo-white.png",
+    "logo_gold": "/products/bodegas/cynar/logo-gold.png"
+  },
+  {
+    "nombre": "daniel pi",
+    "carpeta": "daniel-pi",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/daniel-pi/logo-clean.png",
+    "logo_white": "/products/bodegas/daniel-pi/logo-white.png",
+    "logo_gold": "/products/bodegas/daniel-pi/logo-gold.png"
+  },
+  {
+    "nombre": "de angeles",
+    "carpeta": "de-angeles",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/de-angeles/logo-clean.png",
+    "logo_white": "/products/bodegas/de-angeles/logo-white.png",
+    "logo_gold": "/products/bodegas/de-angeles/logo-gold.png"
+  },
+  {
+    "nombre": "delator de suenos",
+    "carpeta": "delator-de-suenos",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/delator-de-suenos/logo-clean.png",
+    "logo_white": "/products/bodegas/delator-de-suenos/logo-white.png",
+    "logo_gold": "/products/bodegas/delator-de-suenos/logo-gold.png"
+  },
+  {
+    "nombre": "democracy wines",
+    "carpeta": "democracy-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/democracy-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/democracy-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/democracy-wines/logo-gold.png"
+  },
+  {
+    "nombre": "desden wines",
+    "carpeta": "desden-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/desden-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/desden-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/desden-wines/logo-gold.png"
+  },
+  {
+    "nombre": "desquiciado wines",
+    "carpeta": "desquiciado-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/desquiciado-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/desquiciado-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/desquiciado-wines/logo-gold.png"
+  },
+  {
+    "nombre": "destileria andina",
+    "carpeta": "destileria-andina",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/destileria-andina/logo-clean.png",
+    "logo_white": "/products/bodegas/destileria-andina/logo-white.png",
+    "logo_gold": "/products/bodegas/destileria-andina/logo-gold.png"
+  },
+  {
+    "nombre": "diamandes",
+    "carpeta": "diamandes",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/diamandes/logo-clean.png",
+    "logo_white": "/products/bodegas/diamandes/logo-white.png",
+    "logo_gold": "/products/bodegas/diamandes/logo-gold.png"
+  },
+  {
+    "nombre": "dolium",
+    "carpeta": "dolium",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/dolium/logo-clean.png",
+    "logo_white": "/products/bodegas/dolium/logo-white.png",
+    "logo_gold": "/products/bodegas/dolium/logo-gold.png"
+  },
+  {
+    "nombre": "domados wines",
+    "carpeta": "domados-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/domados-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/domados-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/domados-wines/logo-gold.png"
+  },
+  {
+    "nombre": "domaine bousquet",
+    "carpeta": "domaine-bousquet",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/domaine-bousquet/logo-clean.png",
+    "logo_white": "/products/bodegas/domaine-bousquet/logo-white.png",
+    "logo_gold": "/products/bodegas/domaine-bousquet/logo-gold.png"
+  },
+  {
+    "nombre": "domaine nico",
+    "carpeta": "domaine-nico",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/domaine-nico/logo-clean.png",
+    "logo_white": "/products/bodegas/domaine-nico/logo-white.png",
+    "logo_gold": "/products/bodegas/domaine-nico/logo-gold.png"
+  },
+  {
+    "nombre": "domaine saint diego",
+    "carpeta": "domaine-saint-diego",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/domaine-saint-diego/logo-clean.png",
+    "logo_white": "/products/bodegas/domaine-saint-diego/logo-white.png",
+    "logo_gold": "/products/bodegas/domaine-saint-diego/logo-gold.png"
+  },
+  {
+    "nombre": "don rosendo wines",
+    "carpeta": "don-rosendo-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/don-rosendo-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/don-rosendo-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/don-rosendo-wines/logo-gold.png"
+  },
+  {
+    "nombre": "dona paula",
+    "carpeta": "dona-paula",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/dona-paula/logo-clean.png",
+    "logo_white": "/products/bodegas/dona-paula/logo-white.png",
+    "logo_gold": "/products/bodegas/dona-paula/logo-gold.png"
+  },
+  {
+    "nombre": "dufre",
+    "carpeta": "dufre",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/dufre/logo-clean.png",
+    "logo_white": "/products/bodegas/dufre/logo-white.png",
+    "logo_gold": "/products/bodegas/dufre/logo-gold.png"
+  },
+  {
+    "nombre": "durigutti",
+    "carpeta": "durigutti",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/durigutti/logo-clean.png",
+    "logo_white": "/products/bodegas/durigutti/logo-white.png",
+    "logo_gold": "/products/bodegas/durigutti/logo-gold.png"
+  },
+  {
+    "nombre": "eduardo vidal wines",
+    "carpeta": "eduardo-vidal-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/eduardo-vidal-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/eduardo-vidal-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/eduardo-vidal-wines/logo-gold.png"
+  },
+  {
+    "nombre": "el esteco",
+    "carpeta": "el-esteco",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/el-esteco/logo-clean.png",
+    "logo_white": "/products/bodegas/el-esteco/logo-white.png",
+    "logo_gold": "/products/bodegas/el-esteco/logo-gold.png"
+  },
+  {
+    "nombre": "el nudo",
+    "carpeta": "el-nudo",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/el-nudo/logo-clean.png",
+    "logo_white": "/products/bodegas/el-nudo/logo-white.png",
+    "logo_gold": "/products/bodegas/el-nudo/logo-gold.png"
+  },
+  {
+    "nombre": "el porvenir de cafayate",
+    "carpeta": "el-porvenir-de-cafayate",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/el-porvenir-de-cafayate/logo-clean.png",
+    "logo_white": "/products/bodegas/el-porvenir-de-cafayate/logo-white.png",
+    "logo_gold": "/products/bodegas/el-porvenir-de-cafayate/logo-gold.png"
+  },
+  {
+    "nombre": "el sueno vineyard",
+    "carpeta": "el-sueno-vineyard",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/el-sueno-vineyard/logo-clean.png",
+    "logo_white": "/products/bodegas/el-sueno-vineyard/logo-white.png",
+    "logo_gold": "/products/bodegas/el-sueno-vineyard/logo-gold.png"
+  },
+  {
+    "nombre": "entonado wines",
+    "carpeta": "entonado-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/entonado-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/entonado-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/entonado-wines/logo-gold.png"
+  },
+  {
+    "nombre": "entrometido wines",
+    "carpeta": "entrometido-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/entrometido-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/entrometido-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/entrometido-wines/logo-gold.png"
+  },
+  {
+    "nombre": "ernesto catena vineyards",
+    "carpeta": "ernesto-catena-vineyards",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/ernesto-catena-vineyards/logo-clean.png",
+    "logo_white": "/products/bodegas/ernesto-catena-vineyards/logo-white.png",
+    "logo_gold": "/products/bodegas/ernesto-catena-vineyards/logo-gold.png"
+  },
+  {
+    "nombre": "escala humana wines",
+    "carpeta": "escala-humana-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/escala-humana-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/escala-humana-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/escala-humana-wines/logo-gold.png"
+  },
+  {
+    "nombre": "escandalosos wines",
+    "carpeta": "escandalosos-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/escandalosos-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/escandalosos-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/escandalosos-wines/logo-gold.png"
+  },
+  {
+    "nombre": "escorihuela gascon",
+    "carpeta": "escorihuela-gascon",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/escorihuela-gascon/logo-clean.png",
+    "logo_white": "/products/bodegas/escorihuela-gascon/logo-white.png",
+    "logo_gold": "/products/bodegas/escorihuela-gascon/logo-gold.png"
+  },
+  {
+    "nombre": "estancia los cardones",
+    "carpeta": "estancia-los-cardones",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/estancia-los-cardones/logo-clean.png",
+    "logo_white": "/products/bodegas/estancia-los-cardones/logo-white.png",
+    "logo_gold": "/products/bodegas/estancia-los-cardones/logo-gold.png"
+  },
+  {
+    "nombre": "estancia uspallata",
+    "carpeta": "estancia-uspallata",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/estancia-uspallata/logo-clean.png",
+    "logo_white": "/products/bodegas/estancia-uspallata/logo-white.png",
+    "logo_gold": "/products/bodegas/estancia-uspallata/logo-gold.png"
+  },
+  {
+    "nombre": "etchart",
+    "carpeta": "etchart",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/etchart/logo-clean.png",
+    "logo_white": "/products/bodegas/etchart/logo-white.png",
+    "logo_gold": "/products/bodegas/etchart/logo-gold.png"
+  },
+  {
+    "nombre": "experiencias fansdelvino",
+    "carpeta": "experiencias-fansdelvino",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/experiencias-fansdelvino/logo-clean.png",
+    "logo_white": "/products/bodegas/experiencias-fansdelvino/logo-white.png",
+    "logo_gold": "/products/bodegas/experiencias-fansdelvino/logo-gold.png"
+  },
+  {
+    "nombre": "extraordinario garcia",
+    "carpeta": "extraordinario-garcia",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/extraordinario-garcia/logo-clean.png",
+    "logo_white": "/products/bodegas/extraordinario-garcia/logo-white.png",
+    "logo_gold": "/products/bodegas/extraordinario-garcia/logo-gold.png"
+  },
+  {
+    "nombre": "fabre montmayou",
+    "carpeta": "fabre-montmayou",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/fabre-montmayou/logo-clean.png",
+    "logo_white": "/products/bodegas/fabre-montmayou/logo-white.png",
+    "logo_gold": "/products/bodegas/fabre-montmayou/logo-gold.png"
+  },
+  {
+    "nombre": "facundo montane",
+    "carpeta": "facundo-montane",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/facundo-montane/logo-clean.png",
+    "logo_white": "/products/bodegas/facundo-montane/logo-white.png",
+    "logo_gold": "/products/bodegas/facundo-montane/logo-gold.png"
+  },
+  {
+    "nombre": "falasco wines",
+    "carpeta": "falasco-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/falasco-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/falasco-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/falasco-wines/logo-gold.png"
+  },
+  {
+    "nombre": "familia blanco",
+    "carpeta": "familia-blanco",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/familia-blanco/logo-clean.png",
+    "logo_white": "/products/bodegas/familia-blanco/logo-white.png",
+    "logo_gold": "/products/bodegas/familia-blanco/logo-gold.png"
+  },
+  {
+    "nombre": "familia cassone",
+    "carpeta": "familia-cassone",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/familia-cassone/logo-clean.png",
+    "logo_white": "/products/bodegas/familia-cassone/logo-white.png",
+    "logo_gold": "/products/bodegas/familia-cassone/logo-gold.png"
+  },
+  {
+    "nombre": "familia kretschmar",
+    "carpeta": "familia-kretschmar",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/familia-kretschmar/logo-clean.png",
+    "logo_white": "/products/bodegas/familia-kretschmar/logo-white.png",
+    "logo_gold": "/products/bodegas/familia-kretschmar/logo-gold.png"
+  },
+  {
+    "nombre": "familia schroeder",
+    "carpeta": "familia-schroeder",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/familia-schroeder/logo-clean.png",
+    "logo_white": "/products/bodegas/familia-schroeder/logo-white.png",
+    "logo_gold": "/products/bodegas/familia-schroeder/logo-gold.png"
+  },
+  {
+    "nombre": "familia zaina",
+    "carpeta": "familia-zaina",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/familia-zaina/logo-clean.png",
+    "logo_white": "/products/bodegas/familia-zaina/logo-white.png",
+    "logo_gold": "/products/bodegas/familia-zaina/logo-gold.png"
+  },
+  {
+    "nombre": "fansdelvino",
+    "carpeta": "fansdelvino",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/fansdelvino/logo-clean.png",
+    "logo_white": "/products/bodegas/fansdelvino/logo-white.png",
+    "logo_gold": "/products/bodegas/fansdelvino/logo-gold.png"
+  },
+  {
+    "nombre": "fansdelvino stream",
+    "carpeta": "fansdelvino-stream",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/fansdelvino-stream/logo-clean.png",
+    "logo_white": "/products/bodegas/fansdelvino-stream/logo-white.png",
+    "logo_gold": "/products/bodegas/fansdelvino-stream/logo-gold.png"
+  },
+  {
+    "nombre": "fansdelvino tienda",
+    "carpeta": "fansdelvino-tienda",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/fansdelvino-tienda/logo-clean.png",
+    "logo_white": "/products/bodegas/fansdelvino-tienda/logo-white.png",
+    "logo_gold": "/products/bodegas/fansdelvino-tienda/logo-gold.png"
+  },
+  {
+    "nombre": "federal",
+    "carpeta": "federal",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/federal/logo-clean.png",
+    "logo_white": "/products/bodegas/federal/logo-white.png",
+    "logo_gold": "/products/bodegas/federal/logo-gold.png"
+  },
+  {
+    "nombre": "felipe staiti wines",
+    "carpeta": "felipe-staiti-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/felipe-staiti-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/felipe-staiti-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/felipe-staiti-wines/logo-gold.png"
+  },
+  {
+    "nombre": "feraz wines",
+    "carpeta": "feraz-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/feraz-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/feraz-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/feraz-wines/logo-gold.png"
+  },
+  {
+    "nombre": "finca agostino",
+    "carpeta": "finca-agostino",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/finca-agostino/logo-clean.png",
+    "logo_white": "/products/bodegas/finca-agostino/logo-white.png",
+    "logo_gold": "/products/bodegas/finca-agostino/logo-gold.png"
+  },
+  {
+    "nombre": "finca ambrosia",
+    "carpeta": "finca-ambrosia",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/finca-ambrosia/logo-clean.png",
+    "logo_white": "/products/bodegas/finca-ambrosia/logo-white.png",
+    "logo_gold": "/products/bodegas/finca-ambrosia/logo-gold.png"
+  },
+  {
+    "nombre": "finca bandini",
+    "carpeta": "finca-bandini",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/finca-bandini/logo-clean.png",
+    "logo_white": "/products/bodegas/finca-bandini/logo-white.png",
+    "logo_gold": "/products/bodegas/finca-bandini/logo-gold.png"
+  },
+  {
+    "nombre": "finca bombal",
+    "carpeta": "finca-bombal",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/finca-bombal/logo-clean.png",
+    "logo_white": "/products/bodegas/finca-bombal/logo-white.png",
+    "logo_gold": "/products/bodegas/finca-bombal/logo-gold.png"
+  },
+  {
+    "nombre": "finca decero",
+    "carpeta": "finca-decero",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/finca-decero/logo-clean.png",
+    "logo_white": "/products/bodegas/finca-decero/logo-white.png",
+    "logo_gold": "/products/bodegas/finca-decero/logo-gold.png"
+  },
+  {
+    "nombre": "finca del nunca jamas",
+    "carpeta": "finca-del-nunca-jamas",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/finca-del-nunca-jamas/logo-clean.png",
+    "logo_white": "/products/bodegas/finca-del-nunca-jamas/logo-white.png",
+    "logo_gold": "/products/bodegas/finca-del-nunca-jamas/logo-gold.png"
+  },
+  {
+    "nombre": "finca dinamia",
+    "carpeta": "finca-dinamia",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/finca-dinamia/logo-clean.png",
+    "logo_white": "/products/bodegas/finca-dinamia/logo-white.png",
+    "logo_gold": "/products/bodegas/finca-dinamia/logo-gold.png"
+  },
+  {
+    "nombre": "finca feliz",
+    "carpeta": "finca-feliz",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/finca-feliz/logo-clean.png",
+    "logo_white": "/products/bodegas/finca-feliz/logo-white.png",
+    "logo_gold": "/products/bodegas/finca-feliz/logo-gold.png"
+  },
+  {
+    "nombre": "finca flichman",
+    "carpeta": "finca-flichman",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/finca-flichman/logo-clean.png",
+    "logo_white": "/products/bodegas/finca-flichman/logo-white.png",
+    "logo_gold": "/products/bodegas/finca-flichman/logo-gold.png"
+  },
+  {
+    "nombre": "finca iral",
+    "carpeta": "finca-iral",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/finca-iral/logo-clean.png",
+    "logo_white": "/products/bodegas/finca-iral/logo-white.png",
+    "logo_gold": "/products/bodegas/finca-iral/logo-gold.png"
+  },
+  {
+    "nombre": "finca la anita",
+    "carpeta": "finca-la-anita",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/finca-la-anita/logo-clean.png",
+    "logo_white": "/products/bodegas/finca-la-anita/logo-white.png",
+    "logo_gold": "/products/bodegas/finca-la-anita/logo-gold.png"
+  },
+  {
+    "nombre": "finca la escarcha",
+    "carpeta": "finca-la-escarcha",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/finca-la-escarcha/logo-clean.png",
+    "logo_white": "/products/bodegas/finca-la-escarcha/logo-white.png",
+    "logo_gold": "/products/bodegas/finca-la-escarcha/logo-gold.png"
+  },
+  {
+    "nombre": "finca la luz",
+    "carpeta": "finca-la-luz",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/finca-la-luz/logo-clean.png",
+    "logo_white": "/products/bodegas/finca-la-luz/logo-white.png",
+    "logo_gold": "/products/bodegas/finca-la-luz/logo-gold.png"
+  },
+  {
+    "nombre": "finca las moras",
+    "carpeta": "finca-las-moras",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/finca-las-moras/logo-clean.png",
+    "logo_white": "/products/bodegas/finca-las-moras/logo-white.png",
+    "logo_gold": "/products/bodegas/finca-las-moras/logo-gold.png"
+  },
+  {
+    "nombre": "finca savina",
+    "carpeta": "finca-savina",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/finca-savina/logo-clean.png",
+    "logo_white": "/products/bodegas/finca-savina/logo-white.png",
+    "logo_gold": "/products/bodegas/finca-savina/logo-gold.png"
+  },
+  {
+    "nombre": "finca suarez",
+    "carpeta": "finca-suarez",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/finca-suarez/logo-clean.png",
+    "logo_white": "/products/bodegas/finca-suarez/logo-white.png",
+    "logo_gold": "/products/bodegas/finca-suarez/logo-gold.png"
+  },
+  {
+    "nombre": "fincas del limay",
+    "carpeta": "fincas-del-limay",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/fincas-del-limay/logo-clean.png",
+    "logo_white": "/products/bodegas/fincas-del-limay/logo-white.png",
+    "logo_gold": "/products/bodegas/fincas-del-limay/logo-gold.png"
+  },
+  {
+    "nombre": "flechas de los andes",
+    "carpeta": "flechas-de-los-andes",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/flechas-de-los-andes/logo-clean.png",
+    "logo_white": "/products/bodegas/flechas-de-los-andes/logo-white.png",
+    "logo_gold": "/products/bodegas/flechas-de-los-andes/logo-gold.png"
+  },
+  {
+    "nombre": "fratelli branca",
+    "carpeta": "fratelli-branca",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/fratelli-branca/logo-clean.png",
+    "logo_white": "/products/bodegas/fratelli-branca/logo-white.png",
+    "logo_gold": "/products/bodegas/fratelli-branca/logo-gold.png"
+  },
+  {
+    "nombre": "fuego blanco",
+    "carpeta": "fuego-blanco",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/fuego-blanco/logo-clean.png",
+    "logo_white": "/products/bodegas/fuego-blanco/logo-white.png",
+    "logo_gold": "/products/bodegas/fuego-blanco/logo-gold.png"
+  },
+  {
+    "nombre": "fuera de orbita",
+    "carpeta": "fuera-de-orbita",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/fuera-de-orbita/logo-clean.png",
+    "logo_white": "/products/bodegas/fuera-de-orbita/logo-white.png",
+    "logo_gold": "/products/bodegas/fuera-de-orbita/logo-gold.png"
+  },
+  {
+    "nombre": "funcken hausen",
+    "carpeta": "funcken-hausen",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/funcken-hausen/logo-clean.png",
+    "logo_white": "/products/bodegas/funcken-hausen/logo-white.png",
+    "logo_gold": "/products/bodegas/funcken-hausen/logo-gold.png"
+  },
+  {
+    "nombre": "galileo vinedo lejano",
+    "carpeta": "galileo-vinedo-lejano",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/galileo-vinedo-lejano/logo-clean.png",
+    "logo_white": "/products/bodegas/galileo-vinedo-lejano/logo-white.png",
+    "logo_gold": "/products/bodegas/galileo-vinedo-lejano/logo-gold.png"
+  },
+  {
+    "nombre": "gauchezco",
+    "carpeta": "gauchezco",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/gauchezco/logo-clean.png",
+    "logo_white": "/products/bodegas/gauchezco/logo-white.png",
+    "logo_gold": "/products/bodegas/gauchezco/logo-gold.png"
+  },
+  {
+    "nombre": "gen del alma",
+    "carpeta": "gen-del-alma",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/gen-del-alma/logo-clean.png",
+    "logo_white": "/products/bodegas/gen-del-alma/logo-white.png",
+    "logo_gold": "/products/bodegas/gen-del-alma/logo-gold.png"
+  },
+  {
+    "nombre": "gimenez riili",
+    "carpeta": "gimenez-riili",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/gimenez-riili/logo-clean.png",
+    "logo_white": "/products/bodegas/gimenez-riili/logo-white.png",
+    "logo_gold": "/products/bodegas/gimenez-riili/logo-gold.png"
+  },
+  {
+    "nombre": "giovannoni",
+    "carpeta": "giovannoni",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/giovannoni/logo-clean.png",
+    "logo_white": "/products/bodegas/giovannoni/logo-white.png",
+    "logo_gold": "/products/bodegas/giovannoni/logo-gold.png"
+  },
+  {
+    "nombre": "giramundo wines",
+    "carpeta": "giramundo-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/giramundo-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/giramundo-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/giramundo-wines/logo-gold.png"
+  },
+  {
+    "nombre": "glenmorangie",
+    "carpeta": "glenmorangie",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/glenmorangie/logo-clean.png",
+    "logo_white": "/products/bodegas/glenmorangie/logo-white.png",
+    "logo_gold": "/products/bodegas/glenmorangie/logo-gold.png"
+  },
+  {
+    "nombre": "grazie mille",
+    "carpeta": "grazie-mille",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/grazie-mille/logo-clean.png",
+    "logo_white": "/products/bodegas/grazie-mille/logo-white.png",
+    "logo_gold": "/products/bodegas/grazie-mille/logo-gold.png"
+  },
+  {
+    "nombre": "hennessy",
+    "carpeta": "hennessy",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/hennessy/logo-clean.png",
+    "logo_white": "/products/bodegas/hennessy/logo-white.png",
+    "logo_gold": "/products/bodegas/hennessy/logo-gold.png"
+  },
+  {
+    "nombre": "herencia wines",
+    "carpeta": "herencia-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/herencia-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/herencia-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/herencia-wines/logo-gold.png"
+  },
+  {
+    "nombre": "hesperidina",
+    "carpeta": "hesperidina",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/hesperidina/logo-clean.png",
+    "logo_white": "/products/bodegas/hesperidina/logo-white.png",
+    "logo_gold": "/products/bodegas/hesperidina/logo-gold.png"
+  },
+  {
+    "nombre": "hilbing",
+    "carpeta": "hilbing",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/hilbing/logo-clean.png",
+    "logo_white": "/products/bodegas/hilbing/logo-white.png",
+    "logo_gold": "/products/bodegas/hilbing/logo-gold.png"
+  },
+  {
+    "nombre": "huentala wines",
+    "carpeta": "huentala-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/huentala-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/huentala-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/huentala-wines/logo-gold.png"
+  },
+  {
+    "nombre": "humberto canale",
+    "carpeta": "humberto-canale",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/humberto-canale/logo-clean.png",
+    "logo_white": "/products/bodegas/humberto-canale/logo-white.png",
+    "logo_gold": "/products/bodegas/humberto-canale/logo-gold.png"
+  },
+  {
+    "nombre": "jack daniels",
+    "carpeta": "jack-daniels",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/jack-daniels/logo-clean.png",
+    "logo_white": "/products/bodegas/jack-daniels/logo-white.png",
+    "logo_gold": "/products/bodegas/jack-daniels/logo-gold.png"
+  },
+  {
+    "nombre": "johnnie walker",
+    "carpeta": "johnnie-walker",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/johnnie-walker/logo-clean.png",
+    "logo_white": "/products/bodegas/johnnie-walker/logo-white.png",
+    "logo_gold": "/products/bodegas/johnnie-walker/logo-gold.png"
+  },
+  {
+    "nombre": "jolgorio",
+    "carpeta": "jolgorio",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/jolgorio/logo-clean.png",
+    "logo_white": "/products/bodegas/jolgorio/logo-white.png",
+    "logo_gold": "/products/bodegas/jolgorio/logo-gold.png"
+  },
+  {
+    "nombre": "jose cuervo",
+    "carpeta": "jose-cuervo",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/jose-cuervo/logo-clean.png",
+    "logo_white": "/products/bodegas/jose-cuervo/logo-white.png",
+    "logo_gold": "/products/bodegas/jose-cuervo/logo-gold.png"
+  },
+  {
+    "nombre": "kaiken",
+    "carpeta": "kaiken",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/kaiken/logo-clean.png",
+    "logo_white": "/products/bodegas/kaiken/logo-white.png",
+    "logo_gold": "/products/bodegas/kaiken/logo-gold.png"
+  },
+  {
+    "nombre": "kalos wines",
+    "carpeta": "kalos-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/kalos-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/kalos-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/kalos-wines/logo-gold.png"
+  },
+  {
+    "nombre": "krontiras",
+    "carpeta": "krontiras",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/krontiras/logo-clean.png",
+    "logo_white": "/products/bodegas/krontiras/logo-white.png",
+    "logo_gold": "/products/bodegas/krontiras/logo-gold.png"
+  },
+  {
+    "nombre": "la anorada",
+    "carpeta": "la-anorada",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/la-anorada/logo-clean.png",
+    "logo_white": "/products/bodegas/la-anorada/logo-white.png",
+    "logo_gold": "/products/bodegas/la-anorada/logo-gold.png"
+  },
+  {
+    "nombre": "la azul",
+    "carpeta": "la-azul",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/la-azul/logo-clean.png",
+    "logo_white": "/products/bodegas/la-azul/logo-white.png",
+    "logo_gold": "/products/bodegas/la-azul/logo-gold.png"
+  },
+  {
+    "nombre": "la cayetana",
+    "carpeta": "la-cayetana",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/la-cayetana/logo-clean.png",
+    "logo_white": "/products/bodegas/la-cayetana/logo-white.png",
+    "logo_gold": "/products/bodegas/la-cayetana/logo-gold.png"
+  },
+  {
+    "nombre": "la coste de los andes",
+    "carpeta": "la-coste-de-los-andes",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/la-coste-de-los-andes/logo-clean.png",
+    "logo_white": "/products/bodegas/la-coste-de-los-andes/logo-white.png",
+    "logo_gold": "/products/bodegas/la-coste-de-los-andes/logo-gold.png"
+  },
+  {
+    "nombre": "la finquita 1920",
+    "carpeta": "la-finquita-1920",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/la-finquita-1920/logo-clean.png",
+    "logo_white": "/products/bodegas/la-finquita-1920/logo-white.png",
+    "logo_gold": "/products/bodegas/la-finquita-1920/logo-gold.png"
+  },
+  {
+    "nombre": "la giostra del vino",
+    "carpeta": "la-giostra-del-vino",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/la-giostra-del-vino/logo-clean.png",
+    "logo_white": "/products/bodegas/la-giostra-del-vino/logo-white.png",
+    "logo_gold": "/products/bodegas/la-giostra-del-vino/logo-gold.png"
+  },
+  {
+    "nombre": "la graine wines",
+    "carpeta": "la-graine-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/la-graine-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/la-graine-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/la-graine-wines/logo-gold.png"
+  },
+  {
+    "nombre": "la iride",
+    "carpeta": "la-iride",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/la-iride/logo-clean.png",
+    "logo_white": "/products/bodegas/la-iride/logo-white.png",
+    "logo_gold": "/products/bodegas/la-iride/logo-gold.png"
+  },
+  {
+    "nombre": "la mala maria wines",
+    "carpeta": "la-mala-maria-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/la-mala-maria-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/la-mala-maria-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/la-mala-maria-wines/logo-gold.png"
+  },
+  {
+    "nombre": "la mascota vineyards",
+    "carpeta": "la-mascota-vineyards",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/la-mascota-vineyards/logo-clean.png",
+    "logo_white": "/products/bodegas/la-mascota-vineyards/logo-white.png",
+    "logo_gold": "/products/bodegas/la-mascota-vineyards/logo-gold.png"
+  },
+  {
+    "nombre": "la portada",
+    "carpeta": "la-portada",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/la-portada/logo-clean.png",
+    "logo_white": "/products/bodegas/la-portada/logo-white.png",
+    "logo_gold": "/products/bodegas/la-portada/logo-gold.png"
+  },
+  {
+    "nombre": "la posta",
+    "carpeta": "la-posta",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/la-posta/logo-clean.png",
+    "logo_white": "/products/bodegas/la-posta/logo-white.png",
+    "logo_gold": "/products/bodegas/la-posta/logo-gold.png"
+  },
+  {
+    "nombre": "la scala",
+    "carpeta": "la-scala",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/la-scala/logo-clean.png",
+    "logo_white": "/products/bodegas/la-scala/logo-white.png",
+    "logo_gold": "/products/bodegas/la-scala/logo-gold.png"
+  },
+  {
+    "nombre": "la vigilia",
+    "carpeta": "la-vigilia",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/la-vigilia/logo-clean.png",
+    "logo_white": "/products/bodegas/la-vigilia/logo-white.png",
+    "logo_gold": "/products/bodegas/la-vigilia/logo-gold.png"
+  },
+  {
+    "nombre": "lagarde",
+    "carpeta": "lagarde",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/lagarde/logo-clean.png",
+    "logo_white": "/products/bodegas/lagarde/logo-white.png",
+    "logo_gold": "/products/bodegas/lagarde/logo-gold.png"
+  },
+  {
+    "nombre": "lamadrid",
+    "carpeta": "lamadrid",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/lamadrid/logo-clean.png",
+    "logo_white": "/products/bodegas/lamadrid/logo-white.png",
+    "logo_gold": "/products/bodegas/lamadrid/logo-gold.png"
+  },
+  {
+    "nombre": "las arcas de tolombon",
+    "carpeta": "las-arcas-de-tolombon",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/las-arcas-de-tolombon/logo-clean.png",
+    "logo_white": "/products/bodegas/las-arcas-de-tolombon/logo-white.png",
+    "logo_gold": "/products/bodegas/las-arcas-de-tolombon/logo-gold.png"
+  },
+  {
+    "nombre": "las estelas",
+    "carpeta": "las-estelas",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/las-estelas/logo-clean.png",
+    "logo_white": "/products/bodegas/las-estelas/logo-white.png",
+    "logo_gold": "/products/bodegas/las-estelas/logo-gold.png"
+  },
+  {
+    "nombre": "las susanas wines",
+    "carpeta": "las-susanas-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/las-susanas-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/las-susanas-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/las-susanas-wines/logo-gold.png"
+  },
+  {
+    "nombre": "lattarico wines",
+    "carpeta": "lattarico-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/lattarico-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/lattarico-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/lattarico-wines/logo-gold.png"
+  },
+  {
+    "nombre": "laureano gomez",
+    "carpeta": "laureano-gomez",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/laureano-gomez/logo-clean.png",
+    "logo_white": "/products/bodegas/laureano-gomez/logo-white.png",
+    "logo_gold": "/products/bodegas/laureano-gomez/logo-gold.png"
+  },
+  {
+    "nombre": "lavaque",
+    "carpeta": "lavaque",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/lavaque/logo-clean.png",
+    "logo_white": "/products/bodegas/lavaque/logo-white.png",
+    "logo_gold": "/products/bodegas/lavaque/logo-gold.png"
+  },
+  {
+    "nombre": "leguis wines",
+    "carpeta": "leguis-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/leguis-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/leguis-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/leguis-wines/logo-gold.png"
+  },
+  {
+    "nombre": "les amis",
+    "carpeta": "les-amis",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/les-amis/logo-clean.png",
+    "logo_white": "/products/bodegas/les-amis/logo-white.png",
+    "logo_gold": "/products/bodegas/les-amis/logo-gold.png"
+  },
+  {
+    "nombre": "lila wines",
+    "carpeta": "lila-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/lila-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/lila-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/lila-wines/logo-gold.png"
+  },
+  {
+    "nombre": "llaver",
+    "carpeta": "llaver",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/llaver/logo-clean.png",
+    "logo_white": "/products/bodegas/llaver/logo-white.png",
+    "logo_gold": "/products/bodegas/llaver/logo-gold.png"
+  },
+  {
+    "nombre": "lorenzo de agrelo",
+    "carpeta": "lorenzo-de-agrelo",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/lorenzo-de-agrelo/logo-clean.png",
+    "logo_white": "/products/bodegas/lorenzo-de-agrelo/logo-white.png",
+    "logo_gold": "/products/bodegas/lorenzo-de-agrelo/logo-gold.png"
+  },
+  {
+    "nombre": "los chocos",
+    "carpeta": "los-chocos",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/los-chocos/logo-clean.png",
+    "logo_white": "/products/bodegas/los-chocos/logo-white.png",
+    "logo_gold": "/products/bodegas/los-chocos/logo-gold.png"
+  },
+  {
+    "nombre": "los helechos",
+    "carpeta": "los-helechos",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/los-helechos/logo-clean.png",
+    "logo_white": "/products/bodegas/los-helechos/logo-white.png",
+    "logo_gold": "/products/bodegas/los-helechos/logo-gold.png"
+  },
+  {
+    "nombre": "losance",
+    "carpeta": "losance",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/losance/logo-clean.png",
+    "logo_white": "/products/bodegas/losance/logo-white.png",
+    "logo_gold": "/products/bodegas/losance/logo-gold.png"
+  },
+  {
+    "nombre": "luca wines",
+    "carpeta": "luca-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/luca-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/luca-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/luca-wines/logo-gold.png"
+  },
+  {
+    "nombre": "lui wines",
+    "carpeta": "lui-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/lui-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/lui-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/lui-wines/logo-gold.png"
+  },
+  {
+    "nombre": "luigi bosca",
+    "carpeta": "luigi-bosca",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/luigi-bosca/logo-clean.png",
+    "logo_white": "/products/bodegas/luigi-bosca/logo-white.png",
+    "logo_gold": "/products/bodegas/luigi-bosca/logo-gold.png"
+  },
+  {
+    "nombre": "luna roja",
+    "carpeta": "luna-roja",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/luna-roja/logo-clean.png",
+    "logo_white": "/products/bodegas/luna-roja/logo-white.png",
+    "logo_gold": "/products/bodegas/luna-roja/logo-gold.png"
+  },
+  {
+    "nombre": "lupa wines",
+    "carpeta": "lupa-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/lupa-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/lupa-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/lupa-wines/logo-gold.png"
+  },
+  {
+    "nombre": "maal wines",
+    "carpeta": "maal-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/maal-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/maal-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/maal-wines/logo-gold.png"
+  },
+  {
+    "nombre": "magna montis",
+    "carpeta": "magna-montis",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/magna-montis/logo-clean.png",
+    "logo_white": "/products/bodegas/magna-montis/logo-white.png",
+    "logo_gold": "/products/bodegas/magna-montis/logo-gold.png"
+  },
+  {
+    "nombre": "maison pouget",
+    "carpeta": "maison-pouget",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/maison-pouget/logo-clean.png",
+    "logo_white": "/products/bodegas/maison-pouget/logo-white.png",
+    "logo_gold": "/products/bodegas/maison-pouget/logo-gold.png"
+  },
+  {
+    "nombre": "mala junta",
+    "carpeta": "mala-junta",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/mala-junta/logo-clean.png",
+    "logo_white": "/products/bodegas/mala-junta/logo-white.png",
+    "logo_gold": "/products/bodegas/mala-junta/logo-gold.png"
+  },
+  {
+    "nombre": "malma",
+    "carpeta": "malma",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/malma/logo-clean.png",
+    "logo_white": "/products/bodegas/malma/logo-white.png",
+    "logo_gold": "/products/bodegas/malma/logo-gold.png"
+  },
+  {
+    "nombre": "manos negras",
+    "carpeta": "manos-negras",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/manos-negras/logo-clean.png",
+    "logo_white": "/products/bodegas/manos-negras/logo-white.png",
+    "logo_gold": "/products/bodegas/manos-negras/logo-gold.png"
+  },
+  {
+    "nombre": "manuel mas",
+    "carpeta": "manuel-mas",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/manuel-mas/logo-clean.png",
+    "logo_white": "/products/bodegas/manuel-mas/logo-white.png",
+    "logo_gold": "/products/bodegas/manuel-mas/logo-gold.png"
+  },
+  {
+    "nombre": "marcelo miras",
+    "carpeta": "marcelo-miras",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/marcelo-miras/logo-clean.png",
+    "logo_white": "/products/bodegas/marcelo-miras/logo-white.png",
+    "logo_gold": "/products/bodegas/marcelo-miras/logo-gold.png"
+  },
+  {
+    "nombre": "marcelo pelleriti",
+    "carpeta": "marcelo-pelleriti",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/marcelo-pelleriti/logo-clean.png",
+    "logo_white": "/products/bodegas/marcelo-pelleriti/logo-white.png",
+    "logo_gold": "/products/bodegas/marcelo-pelleriti/logo-gold.png"
+  },
+  {
+    "nombre": "marchiori y barraud",
+    "carpeta": "marchiori-y-barraud",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/marchiori-y-barraud/logo-clean.png",
+    "logo_white": "/products/bodegas/marchiori-y-barraud/logo-white.png",
+    "logo_gold": "/products/bodegas/marchiori-y-barraud/logo-gold.png"
+  },
+  {
+    "nombre": "maria ravida",
+    "carpeta": "maria-ravida",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/maria-ravida/logo-clean.png",
+    "logo_white": "/products/bodegas/maria-ravida/logo-white.png",
+    "logo_gold": "/products/bodegas/maria-ravida/logo-gold.png"
+  },
+  {
+    "nombre": "martin bergia",
+    "carpeta": "martin-bergia",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/martin-bergia/logo-clean.png",
+    "logo_white": "/products/bodegas/martin-bergia/logo-white.png",
+    "logo_gold": "/products/bodegas/martin-bergia/logo-gold.png"
+  },
+  {
+    "nombre": "matervini",
+    "carpeta": "matervini",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/matervini/logo-clean.png",
+    "logo_white": "/products/bodegas/matervini/logo-white.png",
+    "logo_gold": "/products/bodegas/matervini/logo-gold.png"
+  },
+  {
+    "nombre": "matias riccitelli",
+    "carpeta": "matias-riccitelli",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/matias-riccitelli/logo-clean.png",
+    "logo_white": "/products/bodegas/matias-riccitelli/logo-white.png",
+    "logo_gold": "/products/bodegas/matias-riccitelli/logo-gold.png"
+  },
+  {
+    "nombre": "mauricio lorca",
+    "carpeta": "mauricio-lorca",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/mauricio-lorca/logo-clean.png",
+    "logo_white": "/products/bodegas/mauricio-lorca/logo-white.png",
+    "logo_gold": "/products/bodegas/mauricio-lorca/logo-gold.png"
+  },
+  {
+    "nombre": "melodia wines",
+    "carpeta": "melodia-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/melodia-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/melodia-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/melodia-wines/logo-gold.png"
+  },
+  {
+    "nombre": "mendel wines",
+    "carpeta": "mendel-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/mendel-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/mendel-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/mendel-wines/logo-gold.png"
+  },
+  {
+    "nombre": "mi terruno",
+    "carpeta": "mi-terruno",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/mi-terruno/logo-clean.png",
+    "logo_white": "/products/bodegas/mi-terruno/logo-white.png",
+    "logo_gold": "/products/bodegas/mi-terruno/logo-gold.png"
+  },
+  {
+    "nombre": "mi victoria",
+    "carpeta": "mi-victoria",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/mi-victoria/logo-clean.png",
+    "logo_white": "/products/bodegas/mi-victoria/logo-white.png",
+    "logo_gold": "/products/bodegas/mi-victoria/logo-gold.png"
+  },
+  {
+    "nombre": "michelini y mufatto",
+    "carpeta": "michelini-y-mufatto",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/michelini-y-mufatto/logo-clean.png",
+    "logo_white": "/products/bodegas/michelini-y-mufatto/logo-white.png",
+    "logo_gold": "/products/bodegas/michelini-y-mufatto/logo-gold.png"
+  },
+  {
+    "nombre": "mil volcanes",
+    "carpeta": "mil-volcanes",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/mil-volcanes/logo-clean.png",
+    "logo_white": "/products/bodegas/mil-volcanes/logo-white.png",
+    "logo_gold": "/products/bodegas/mil-volcanes/logo-gold.png"
+  },
+  {
+    "nombre": "molua",
+    "carpeta": "molua",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/molua/logo-clean.png",
+    "logo_white": "/products/bodegas/molua/logo-white.png",
+    "logo_gold": "/products/bodegas/molua/logo-gold.png"
+  },
+  {
+    "nombre": "montarraz",
+    "carpeta": "montarraz",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/montarraz/logo-clean.png",
+    "logo_white": "/products/bodegas/montarraz/logo-white.png",
+    "logo_gold": "/products/bodegas/montarraz/logo-gold.png"
+  },
+  {
+    "nombre": "montes premium wines",
+    "carpeta": "montes-premium-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/montes-premium-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/montes-premium-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/montes-premium-wines/logo-gold.png"
+  },
+  {
+    "nombre": "monteviejo",
+    "carpeta": "monteviejo",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/monteviejo/logo-clean.png",
+    "logo_white": "/products/bodegas/monteviejo/logo-white.png",
+    "logo_gold": "/products/bodegas/monteviejo/logo-gold.png"
+  },
+  {
+    "nombre": "morelli",
+    "carpeta": "morelli",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/morelli/logo-clean.png",
+    "logo_white": "/products/bodegas/morelli/logo-white.png",
+    "logo_gold": "/products/bodegas/morelli/logo-gold.png"
+  },
+  {
+    "nombre": "morirse de amor",
+    "carpeta": "morirse-de-amor",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/morirse-de-amor/logo-clean.png",
+    "logo_white": "/products/bodegas/morirse-de-amor/logo-white.png",
+    "logo_gold": "/products/bodegas/morirse-de-amor/logo-gold.png"
+  },
+  {
+    "nombre": "mumm",
+    "carpeta": "mumm",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/mumm/logo-clean.png",
+    "logo_white": "/products/bodegas/mumm/logo-white.png",
+    "logo_gold": "/products/bodegas/mumm/logo-gold.png"
+  },
+  {
+    "nombre": "mundo reves",
+    "carpeta": "mundo-reves",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/mundo-reves/logo-clean.png",
+    "logo_white": "/products/bodegas/mundo-reves/logo-white.png",
+    "logo_gold": "/products/bodegas/mundo-reves/logo-gold.png"
+  },
+  {
+    "nombre": "mythic",
+    "carpeta": "mythic",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/mythic/logo-clean.png",
+    "logo_white": "/products/bodegas/mythic/logo-white.png",
+    "logo_gold": "/products/bodegas/mythic/logo-gold.png"
+  },
+  {
+    "nombre": "mythos wines",
+    "carpeta": "mythos-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/mythos-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/mythos-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/mythos-wines/logo-gold.png"
+  },
+  {
+    "nombre": "navarro correas",
+    "carpeta": "navarro-correas",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/navarro-correas/logo-clean.png",
+    "logo_white": "/products/bodegas/navarro-correas/logo-white.png",
+    "logo_gold": "/products/bodegas/navarro-correas/logo-gold.png"
+  },
+  {
+    "nombre": "nieto senetiner",
+    "carpeta": "nieto-senetiner",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/nieto-senetiner/logo-clean.png",
+    "logo_white": "/products/bodegas/nieto-senetiner/logo-white.png",
+    "logo_gold": "/products/bodegas/nieto-senetiner/logo-gold.png"
+  },
+  {
+    "nombre": "niven wines",
+    "carpeta": "niven-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/niven-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/niven-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/niven-wines/logo-gold.png"
+  },
+  {
+    "nombre": "noemia",
+    "carpeta": "noemia",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/noemia/logo-clean.png",
+    "logo_white": "/products/bodegas/noemia/logo-white.png",
+    "logo_gold": "/products/bodegas/noemia/logo-gold.png"
+  },
+  {
+    "nombre": "norton",
+    "carpeta": "norton",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/norton/logo-clean.png",
+    "logo_white": "/products/bodegas/norton/logo-white.png",
+    "logo_gold": "/products/bodegas/norton/logo-gold.png"
+  },
+  {
+    "nombre": "ojo de agua",
+    "carpeta": "ojo-de-agua",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/ojo-de-agua/logo-clean.png",
+    "logo_white": "/products/bodegas/ojo-de-agua/logo-white.png",
+    "logo_gold": "/products/bodegas/ojo-de-agua/logo-gold.png"
+  },
+  {
+    "nombre": "olibo",
+    "carpeta": "olibo",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/olibo/logo-clean.png",
+    "logo_white": "/products/bodegas/olibo/logo-white.png",
+    "logo_gold": "/products/bodegas/olibo/logo-gold.png"
+  },
+  {
+    "nombre": "oliver cooks",
+    "carpeta": "oliver-cooks",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/oliver-cooks/logo-clean.png",
+    "logo_white": "/products/bodegas/oliver-cooks/logo-white.png",
+    "logo_gold": "/products/bodegas/oliver-cooks/logo-gold.png"
+  },
+  {
+    "nombre": "olivicola laur",
+    "carpeta": "olivicola-laur",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/olivicola-laur/logo-clean.png",
+    "logo_white": "/products/bodegas/olivicola-laur/logo-white.png",
+    "logo_gold": "/products/bodegas/olivicola-laur/logo-gold.png"
+  },
+  {
+    "nombre": "onofri wines",
+    "carpeta": "onofri-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/onofri-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/onofri-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/onofri-wines/logo-gold.png"
+  },
+  {
+    "nombre": "orquideas wines",
+    "carpeta": "orquideas-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/orquideas-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/orquideas-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/orquideas-wines/logo-gold.png"
+  },
+  {
+    "nombre": "otero ramos",
+    "carpeta": "otero-ramos",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/otero-ramos/logo-clean.png",
+    "logo_white": "/products/bodegas/otero-ramos/logo-white.png",
+    "logo_gold": "/products/bodegas/otero-ramos/logo-gold.png"
+  },
+  {
+    "nombre": "otronia",
+    "carpeta": "otronia",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/otronia/logo-clean.png",
+    "logo_white": "/products/bodegas/otronia/logo-white.png",
+    "logo_gold": "/products/bodegas/otronia/logo-gold.png"
+  },
+  {
+    "nombre": "pasarisa",
+    "carpeta": "pasarisa",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/pasarisa/logo-clean.png",
+    "logo_white": "/products/bodegas/pasarisa/logo-white.png",
+    "logo_gold": "/products/bodegas/pasarisa/logo-gold.png"
+  },
+  {
+    "nombre": "pascual toso",
+    "carpeta": "pascual-toso",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/pascual-toso/logo-clean.png",
+    "logo_white": "/products/bodegas/pascual-toso/logo-white.png",
+    "logo_gold": "/products/bodegas/pascual-toso/logo-gold.png"
+  },
+  {
+    "nombre": "paso a paso",
+    "carpeta": "paso-a-paso",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/paso-a-paso/logo-clean.png",
+    "logo_white": "/products/bodegas/paso-a-paso/logo-white.png",
+    "logo_gold": "/products/bodegas/paso-a-paso/logo-gold.png"
+  },
+  {
+    "nombre": "passionate wines",
+    "carpeta": "passionate-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/passionate-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/passionate-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/passionate-wines/logo-gold.png"
+  },
+  {
+    "nombre": "patagonia gourmet",
+    "carpeta": "patagonia-gourmet",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/patagonia-gourmet/logo-clean.png",
+    "logo_white": "/products/bodegas/patagonia-gourmet/logo-white.png",
+    "logo_gold": "/products/bodegas/patagonia-gourmet/logo-gold.png"
+  },
+  {
+    "nombre": "patron santiago",
+    "carpeta": "patron-santiago",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/patron-santiago/logo-clean.png",
+    "logo_white": "/products/bodegas/patron-santiago/logo-white.png",
+    "logo_gold": "/products/bodegas/patron-santiago/logo-gold.png"
+  },
+  {
+    "nombre": "pause y co",
+    "carpeta": "pause-y-co",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/pause-y-co/logo-clean.png",
+    "logo_white": "/products/bodegas/pause-y-co/logo-white.png",
+    "logo_gold": "/products/bodegas/pause-y-co/logo-gold.png"
+  },
+  {
+    "nombre": "penedo borges",
+    "carpeta": "penedo-borges",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/penedo-borges/logo-clean.png",
+    "logo_white": "/products/bodegas/penedo-borges/logo-white.png",
+    "logo_gold": "/products/bodegas/penedo-borges/logo-gold.png"
+  },
+  {
+    "nombre": "perro bueno",
+    "carpeta": "perro-bueno",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/perro-bueno/logo-clean.png",
+    "logo_white": "/products/bodegas/perro-bueno/logo-white.png",
+    "logo_gold": "/products/bodegas/perro-bueno/logo-gold.png"
+  },
+  {
+    "nombre": "philippe caraguel",
+    "carpeta": "philippe-caraguel",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/philippe-caraguel/logo-clean.png",
+    "logo_white": "/products/bodegas/philippe-caraguel/logo-white.png",
+    "logo_gold": "/products/bodegas/philippe-caraguel/logo-gold.png"
+  },
+  {
+    "nombre": "piattelli vineyards",
+    "carpeta": "piattelli-vineyards",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/piattelli-vineyards/logo-clean.png",
+    "logo_white": "/products/bodegas/piattelli-vineyards/logo-white.png",
+    "logo_gold": "/products/bodegas/piattelli-vineyards/logo-gold.png"
+  },
+  {
+    "nombre": "piedra negra",
+    "carpeta": "piedra-negra",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/piedra-negra/logo-clean.png",
+    "logo_white": "/products/bodegas/piedra-negra/logo-white.png",
+    "logo_gold": "/products/bodegas/piedra-negra/logo-gold.png"
+  },
+  {
+    "nombre": "piuque",
+    "carpeta": "piuque",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/piuque/logo-clean.png",
+    "logo_white": "/products/bodegas/piuque/logo-white.png",
+    "logo_gold": "/products/bodegas/piuque/logo-gold.png"
+  },
+  {
+    "nombre": "poesia",
+    "carpeta": "poesia",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/poesia/logo-clean.png",
+    "logo_white": "/products/bodegas/poesia/logo-white.png",
+    "logo_gold": "/products/bodegas/poesia/logo-gold.png"
+  },
+  {
+    "nombre": "praxedes orfila",
+    "carpeta": "praxedes-orfila",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/praxedes-orfila/logo-clean.png",
+    "logo_white": "/products/bodegas/praxedes-orfila/logo-white.png",
+    "logo_gold": "/products/bodegas/praxedes-orfila/logo-gold.png"
+  },
+  {
+    "nombre": "principe de los apostoles",
+    "carpeta": "principe-de-los-apostoles",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/principe-de-los-apostoles/logo-clean.png",
+    "logo_white": "/products/bodegas/principe-de-los-apostoles/logo-white.png",
+    "logo_gold": "/products/bodegas/principe-de-los-apostoles/logo-gold.png"
+  },
+  {
+    "nombre": "proemio wines",
+    "carpeta": "proemio-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/proemio-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/proemio-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/proemio-wines/logo-gold.png"
+  },
+  {
+    "nombre": "proyecto 335",
+    "carpeta": "proyecto-335",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/proyecto-335/logo-clean.png",
+    "logo_white": "/products/bodegas/proyecto-335/logo-white.png",
+    "logo_gold": "/products/bodegas/proyecto-335/logo-gold.png"
+  },
+  {
+    "nombre": "pueblo dormido",
+    "carpeta": "pueblo-dormido",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/pueblo-dormido/logo-clean.png",
+    "logo_white": "/products/bodegas/pueblo-dormido/logo-white.png",
+    "logo_gold": "/products/bodegas/pueblo-dormido/logo-gold.png"
+  },
+  {
+    "nombre": "pulenta estate",
+    "carpeta": "pulenta-estate",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/pulenta-estate/logo-clean.png",
+    "logo_white": "/products/bodegas/pulenta-estate/logo-white.png",
+    "logo_gold": "/products/bodegas/pulenta-estate/logo-gold.png"
+  },
+  {
+    "nombre": "puramun",
+    "carpeta": "puramun",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/puramun/logo-clean.png",
+    "logo_white": "/products/bodegas/puramun/logo-white.png",
+    "logo_gold": "/products/bodegas/puramun/logo-gold.png"
+  },
+  {
+    "nombre": "pyros wines",
+    "carpeta": "pyros-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/pyros-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/pyros-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/pyros-wines/logo-gold.png"
+  },
+  {
+    "nombre": "qaramy",
+    "carpeta": "qaramy",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/qaramy/logo-clean.png",
+    "logo_white": "/products/bodegas/qaramy/logo-white.png",
+    "logo_gold": "/products/bodegas/qaramy/logo-gold.png"
+  },
+  {
+    "nombre": "ramanegra",
+    "carpeta": "ramanegra",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/ramanegra/logo-clean.png",
+    "logo_white": "/products/bodegas/ramanegra/logo-white.png",
+    "logo_gold": "/products/bodegas/ramanegra/logo-gold.png"
+  },
+  {
+    "nombre": "ravera wines",
+    "carpeta": "ravera-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/ravera-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/ravera-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/ravera-wines/logo-gold.png"
+  },
+  {
+    "nombre": "renacer",
+    "carpeta": "renacer",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/renacer/logo-clean.png",
+    "logo_white": "/products/bodegas/renacer/logo-white.png",
+    "logo_gold": "/products/bodegas/renacer/logo-gold.png"
+  },
+  {
+    "nombre": "restinga",
+    "carpeta": "restinga",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/restinga/logo-clean.png",
+    "logo_white": "/products/bodegas/restinga/logo-white.png",
+    "logo_gold": "/products/bodegas/restinga/logo-gold.png"
+  },
+  {
+    "nombre": "retortuno",
+    "carpeta": "retortuno",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/retortuno/logo-clean.png",
+    "logo_white": "/products/bodegas/retortuno/logo-white.png",
+    "logo_gold": "/products/bodegas/retortuno/logo-gold.png"
+  },
+  {
+    "nombre": "reval san isidro",
+    "carpeta": "reval-san-isidro",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/reval-san-isidro/logo-clean.png",
+    "logo_white": "/products/bodegas/reval-san-isidro/logo-white.png",
+    "logo_gold": "/products/bodegas/reval-san-isidro/logo-gold.png"
+  },
+  {
+    "nombre": "revancha wines",
+    "carpeta": "revancha-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/revancha-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/revancha-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/revancha-wines/logo-gold.png"
+  },
+  {
+    "nombre": "ricominciare",
+    "carpeta": "ricominciare",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/ricominciare/logo-clean.png",
+    "logo_white": "/products/bodegas/ricominciare/logo-white.png",
+    "logo_gold": "/products/bodegas/ricominciare/logo-gold.png"
+  },
+  {
+    "nombre": "riglos",
+    "carpeta": "riglos",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/riglos/logo-clean.png",
+    "logo_white": "/products/bodegas/riglos/logo-white.png",
+    "logo_gold": "/products/bodegas/riglos/logo-gold.png"
+  },
+  {
+    "nombre": "rj vinedos",
+    "carpeta": "rj-vinedos",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/rj-vinedos/logo-clean.png",
+    "logo_white": "/products/bodegas/rj-vinedos/logo-white.png",
+    "logo_gold": "/products/bodegas/rj-vinedos/logo-gold.png"
+  },
+  {
+    "nombre": "roberto bonfanti",
+    "carpeta": "roberto-bonfanti",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/roberto-bonfanti/logo-clean.png",
+    "logo_white": "/products/bodegas/roberto-bonfanti/logo-white.png",
+    "logo_gold": "/products/bodegas/roberto-bonfanti/logo-gold.png"
+  },
+  {
+    "nombre": "rolland wines",
+    "carpeta": "rolland-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/rolland-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/rolland-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/rolland-wines/logo-gold.png"
+  },
+  {
+    "nombre": "rosell boher",
+    "carpeta": "rosell-boher",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/rosell-boher/logo-clean.png",
+    "logo_white": "/products/bodegas/rosell-boher/logo-white.png",
+    "logo_gold": "/products/bodegas/rosell-boher/logo-gold.png"
+  },
+  {
+    "nombre": "ruca malen",
+    "carpeta": "ruca-malen",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/ruca-malen/logo-clean.png",
+    "logo_white": "/products/bodegas/ruca-malen/logo-white.png",
+    "logo_gold": "/products/bodegas/ruca-malen/logo-gold.png"
+  },
+  {
+    "nombre": "rutini",
+    "carpeta": "rutini",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/rutini/logo-clean.png",
+    "logo_white": "/products/bodegas/rutini/logo-white.png",
+    "logo_gold": "/products/bodegas/rutini/logo-gold.png"
+  },
+  {
+    "nombre": "salentein",
+    "carpeta": "salentein",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/salentein/logo-clean.png",
+    "logo_white": "/products/bodegas/salentein/logo-white.png",
+    "logo_gold": "/products/bodegas/salentein/logo-gold.png"
+  },
+  {
+    "nombre": "sampere y scandura",
+    "carpeta": "sampere-y-scandura",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/sampere-y-scandura/logo-clean.png",
+    "logo_white": "/products/bodegas/sampere-y-scandura/logo-white.png",
+    "logo_gold": "/products/bodegas/sampere-y-scandura/logo-gold.png"
+  },
+  {
+    "nombre": "san pedro de yacochuya",
+    "carpeta": "san-pedro-de-yacochuya",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/san-pedro-de-yacochuya/logo-clean.png",
+    "logo_white": "/products/bodegas/san-pedro-de-yacochuya/logo-white.png",
+    "logo_gold": "/products/bodegas/san-pedro-de-yacochuya/logo-gold.png"
+  },
+  {
+    "nombre": "santa julia",
+    "carpeta": "santa-julia",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/santa-julia/logo-clean.png",
+    "logo_white": "/products/bodegas/santa-julia/logo-white.png",
+    "logo_gold": "/products/bodegas/santa-julia/logo-gold.png"
+  },
+  {
+    "nombre": "satrapa",
+    "carpeta": "satrapa",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/satrapa/logo-clean.png",
+    "logo_white": "/products/bodegas/satrapa/logo-white.png",
+    "logo_gold": "/products/bodegas/satrapa/logo-gold.png"
+  },
+  {
+    "nombre": "septima",
+    "carpeta": "septima",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/septima/logo-clean.png",
+    "logo_white": "/products/bodegas/septima/logo-white.png",
+    "logo_gold": "/products/bodegas/septima/logo-gold.png"
+  },
+  {
+    "nombre": "sernova",
+    "carpeta": "sernova",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/sernova/logo-clean.png",
+    "logo_white": "/products/bodegas/sernova/logo-white.png",
+    "logo_gold": "/products/bodegas/sernova/logo-gold.png"
+  },
+  {
+    "nombre": "siete motivos",
+    "carpeta": "siete-motivos",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/siete-motivos/logo-clean.png",
+    "logo_white": "/products/bodegas/siete-motivos/logo-white.png",
+    "logo_gold": "/products/bodegas/siete-motivos/logo-gold.png"
+  },
+  {
+    "nombre": "sin fin",
+    "carpeta": "sin-fin",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/sin-fin/logo-clean.png",
+    "logo_white": "/products/bodegas/sin-fin/logo-white.png",
+    "logo_gold": "/products/bodegas/sin-fin/logo-gold.png"
+  },
+  {
+    "nombre": "sin reglas wines",
+    "carpeta": "sin-reglas-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/sin-reglas-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/sin-reglas-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/sin-reglas-wines/logo-gold.png"
+  },
+  {
+    "nombre": "smirnoff",
+    "carpeta": "smirnoff",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/smirnoff/logo-clean.png",
+    "logo_white": "/products/bodegas/smirnoff/logo-white.png",
+    "logo_gold": "/products/bodegas/smirnoff/logo-gold.png"
+  },
+  {
+    "nombre": "sol y vino",
+    "carpeta": "sol-y-vino",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/sol-y-vino/logo-clean.png",
+    "logo_white": "/products/bodegas/sol-y-vino/logo-white.png",
+    "logo_gold": "/products/bodegas/sol-y-vino/logo-gold.png"
+  },
+  {
+    "nombre": "sol y vino mendoza",
+    "carpeta": "sol-y-vino-mendoza",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/sol-y-vino-mendoza/logo-clean.png",
+    "logo_white": "/products/bodegas/sol-y-vino-mendoza/logo-white.png",
+    "logo_gold": "/products/bodegas/sol-y-vino-mendoza/logo-gold.png"
+  },
+  {
+    "nombre": "solito va",
+    "carpeta": "solito-va",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/solito-va/logo-clean.png",
+    "logo_white": "/products/bodegas/solito-va/logo-white.png",
+    "logo_gold": "/products/bodegas/solito-va/logo-gold.png"
+  },
+  {
+    "nombre": "solo contigo",
+    "carpeta": "solo-contigo",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/solo-contigo/logo-clean.png",
+    "logo_white": "/products/bodegas/solo-contigo/logo-white.png",
+    "logo_gold": "/products/bodegas/solo-contigo/logo-gold.png"
+  },
+  {
+    "nombre": "sonando t",
+    "carpeta": "sonando-t",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/sonando-t/logo-clean.png",
+    "logo_white": "/products/bodegas/sonando-t/logo-white.png",
+    "logo_gold": "/products/bodegas/sonando-t/logo-gold.png"
+  },
+  {
+    "nombre": "sophenia",
+    "carpeta": "sophenia",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/sophenia/logo-clean.png",
+    "logo_white": "/products/bodegas/sophenia/logo-white.png",
+    "logo_gold": "/products/bodegas/sophenia/logo-gold.png"
+  },
+  {
+    "nombre": "sottano",
+    "carpeta": "sottano",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/sottano/logo-clean.png",
+    "logo_white": "/products/bodegas/sottano/logo-white.png",
+    "logo_gold": "/products/bodegas/sottano/logo-gold.png"
+  },
+  {
+    "nombre": "spirito",
+    "carpeta": "spirito",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/spirito/logo-clean.png",
+    "logo_white": "/products/bodegas/spirito/logo-white.png",
+    "logo_gold": "/products/bodegas/spirito/logo-gold.png"
+  },
+  {
+    "nombre": "spirits of argentina",
+    "carpeta": "spirits-of-argentina",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/spirits-of-argentina/logo-clean.png",
+    "logo_white": "/products/bodegas/spirits-of-argentina/logo-white.png",
+    "logo_gold": "/products/bodegas/spirits-of-argentina/logo-gold.png"
+  },
+  {
+    "nombre": "sposato",
+    "carpeta": "sposato",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/sposato/logo-clean.png",
+    "logo_white": "/products/bodegas/sposato/logo-white.png",
+    "logo_gold": "/products/bodegas/sposato/logo-gold.png"
+  },
+  {
+    "nombre": "staphyle",
+    "carpeta": "staphyle",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/staphyle/logo-clean.png",
+    "logo_white": "/products/bodegas/staphyle/logo-white.png",
+    "logo_gold": "/products/bodegas/staphyle/logo-gold.png"
+  },
+  {
+    "nombre": "subjetivo wines",
+    "carpeta": "subjetivo-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/subjetivo-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/subjetivo-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/subjetivo-wines/logo-gold.png"
+  },
+  {
+    "nombre": "sur de los andes",
+    "carpeta": "sur-de-los-andes",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/sur-de-los-andes/logo-clean.png",
+    "logo_white": "/products/bodegas/sur-de-los-andes/logo-white.png",
+    "logo_gold": "/products/bodegas/sur-de-los-andes/logo-gold.png"
+  },
+  {
+    "nombre": "susana balbo",
+    "carpeta": "susana-balbo",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/susana-balbo/logo-clean.png",
+    "logo_white": "/products/bodegas/susana-balbo/logo-white.png",
+    "logo_gold": "/products/bodegas/susana-balbo/logo-gold.png"
+  },
+  {
+    "nombre": "taittinger",
+    "carpeta": "taittinger",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/taittinger/logo-clean.png",
+    "logo_white": "/products/bodegas/taittinger/logo-white.png",
+    "logo_gold": "/products/bodegas/taittinger/logo-gold.png"
+  },
+  {
+    "nombre": "tanqueray",
+    "carpeta": "tanqueray",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/tanqueray/logo-clean.png",
+    "logo_white": "/products/bodegas/tanqueray/logo-white.png",
+    "logo_gold": "/products/bodegas/tanqueray/logo-gold.png"
+  },
+  {
+    "nombre": "tapiz",
+    "carpeta": "tapiz",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/tapiz/logo-clean.png",
+    "logo_white": "/products/bodegas/tapiz/logo-white.png",
+    "logo_gold": "/products/bodegas/tapiz/logo-gold.png"
+  },
+  {
+    "nombre": "tempus alba",
+    "carpeta": "tempus-alba",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/tempus-alba/logo-clean.png",
+    "logo_white": "/products/bodegas/tempus-alba/logo-white.png",
+    "logo_gold": "/products/bodegas/tempus-alba/logo-gold.png"
+  },
+  {
+    "nombre": "terracota wineland",
+    "carpeta": "terracota-wineland",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/terracota-wineland/logo-clean.png",
+    "logo_white": "/products/bodegas/terracota-wineland/logo-white.png",
+    "logo_gold": "/products/bodegas/terracota-wineland/logo-gold.png"
+  },
+  {
+    "nombre": "terrazas de los andes",
+    "carpeta": "terrazas-de-los-andes",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/terrazas-de-los-andes/logo-clean.png",
+    "logo_white": "/products/bodegas/terrazas-de-los-andes/logo-white.png",
+    "logo_gold": "/products/bodegas/terrazas-de-los-andes/logo-gold.png"
+  },
+  {
+    "nombre": "teson",
+    "carpeta": "teson",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/teson/logo-clean.png",
+    "logo_white": "/products/bodegas/teson/logo-white.png",
+    "logo_gold": "/products/bodegas/teson/logo-gold.png"
+  },
+  {
+    "nombre": "testa matta",
+    "carpeta": "testa-matta",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/testa-matta/logo-clean.png",
+    "logo_white": "/products/bodegas/testa-matta/logo-white.png",
+    "logo_gold": "/products/bodegas/testa-matta/logo-gold.png"
+  },
+  {
+    "nombre": "tinto negro",
+    "carpeta": "tinto-negro",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/tinto-negro/logo-clean.png",
+    "logo_white": "/products/bodegas/tinto-negro/logo-white.png",
+    "logo_gold": "/products/bodegas/tinto-negro/logo-gold.png"
+  },
+  {
+    "nombre": "tizio",
+    "carpeta": "tizio",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/tizio/logo-clean.png",
+    "logo_white": "/products/bodegas/tizio/logo-white.png",
+    "logo_gold": "/products/bodegas/tizio/logo-gold.png"
+  },
+  {
+    "nombre": "tomalo como quieras",
+    "carpeta": "tomalo-como-quieras",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/tomalo-como-quieras/logo-clean.png",
+    "logo_white": "/products/bodegas/tomalo-como-quieras/logo-white.png",
+    "logo_gold": "/products/bodegas/tomalo-como-quieras/logo-gold.png"
+  },
+  {
+    "nombre": "trapiche",
+    "carpeta": "trapiche",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/trapiche/logo-clean.png",
+    "logo_white": "/products/bodegas/trapiche/logo-white.png",
+    "logo_gold": "/products/bodegas/trapiche/logo-gold.png"
+  },
+  {
+    "nombre": "tres plumas",
+    "carpeta": "tres-plumas",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/tres-plumas/logo-clean.png",
+    "logo_white": "/products/bodegas/tres-plumas/logo-white.png",
+    "logo_gold": "/products/bodegas/tres-plumas/logo-gold.png"
+  },
+  {
+    "nombre": "trivento",
+    "carpeta": "trivento",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/trivento/logo-clean.png",
+    "logo_white": "/products/bodegas/trivento/logo-white.png",
+    "logo_gold": "/products/bodegas/trivento/logo-gold.png"
+  },
+  {
+    "nombre": "urqo",
+    "carpeta": "urqo",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/urqo/logo-clean.png",
+    "logo_white": "/products/bodegas/urqo/logo-white.png",
+    "logo_gold": "/products/bodegas/urqo/logo-gold.png"
+  },
+  {
+    "nombre": "uruco wines",
+    "carpeta": "uruco-wines",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/uruco-wines/logo-clean.png",
+    "logo_white": "/products/bodegas/uruco-wines/logo-white.png",
+    "logo_gold": "/products/bodegas/uruco-wines/logo-gold.png"
+  },
+  {
+    "nombre": "valle de encuentro",
+    "carpeta": "valle-de-encuentro",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/valle-de-encuentro/logo-clean.png",
+    "logo_white": "/products/bodegas/valle-de-encuentro/logo-white.png",
+    "logo_gold": "/products/bodegas/valle-de-encuentro/logo-gold.png"
+  },
+  {
+    "nombre": "ver sacrum",
+    "carpeta": "ver-sacrum",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/ver-sacrum/logo-clean.png",
+    "logo_white": "/products/bodegas/ver-sacrum/logo-white.png",
+    "logo_gold": "/products/bodegas/ver-sacrum/logo-gold.png"
+  },
+  {
+    "nombre": "versatil",
+    "carpeta": "versatil",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/versatil/logo-clean.png",
+    "logo_white": "/products/bodegas/versatil/logo-white.png",
+    "logo_gold": "/products/bodegas/versatil/logo-gold.png"
+  },
+  {
+    "nombre": "veuve clicquot",
+    "carpeta": "veuve-clicquot",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/veuve-clicquot/logo-clean.png",
+    "logo_white": "/products/bodegas/veuve-clicquot/logo-white.png",
+    "logo_gold": "/products/bodegas/veuve-clicquot/logo-gold.png"
+  },
+  {
+    "nombre": "vida y alma",
+    "carpeta": "vida-y-alma",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/vida-y-alma/logo-clean.png",
+    "logo_white": "/products/bodegas/vida-y-alma/logo-white.png",
+    "logo_gold": "/products/bodegas/vida-y-alma/logo-gold.png"
+  },
+  {
+    "nombre": "vieja escuela",
+    "carpeta": "vieja-escuela",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/vieja-escuela/logo-clean.png",
+    "logo_white": "/products/bodegas/vieja-escuela/logo-white.png",
+    "logo_gold": "/products/bodegas/vieja-escuela/logo-gold.png"
+  },
+  {
+    "nombre": "vina alta",
+    "carpeta": "vina-alta",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/vina-alta/logo-clean.png",
+    "logo_white": "/products/bodegas/vina-alta/logo-white.png",
+    "logo_gold": "/products/bodegas/vina-alta/logo-gold.png"
+  },
+  {
+    "nombre": "vina cobos",
+    "carpeta": "vina-cobos",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/vina-cobos/logo-clean.png",
+    "logo_white": "/products/bodegas/vina-cobos/logo-white.png",
+    "logo_gold": "/products/bodegas/vina-cobos/logo-gold.png"
+  },
+  {
+    "nombre": "vina jardin de maria 1910",
+    "carpeta": "vina-jardin-de-maria-1910",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/vina-jardin-de-maria-1910/logo-clean.png",
+    "logo_white": "/products/bodegas/vina-jardin-de-maria-1910/logo-white.png",
+    "logo_gold": "/products/bodegas/vina-jardin-de-maria-1910/logo-gold.png"
+  },
+  {
+    "nombre": "vinos de la pasion",
+    "carpeta": "vinos-de-la-pasion",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/vinos-de-la-pasion/logo-clean.png",
+    "logo_white": "/products/bodegas/vinos-de-la-pasion/logo-white.png",
+    "logo_gold": "/products/bodegas/vinos-de-la-pasion/logo-gold.png"
+  },
+  {
+    "nombre": "vinyes ocults",
+    "carpeta": "vinyes-ocults",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/vinyes-ocults/logo-clean.png",
+    "logo_white": "/products/bodegas/vinyes-ocults/logo-white.png",
+    "logo_gold": "/products/bodegas/vinyes-ocults/logo-gold.png"
+  },
+  {
+    "nombre": "vivo o muerto",
+    "carpeta": "vivo-o-muerto",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/vivo-o-muerto/logo-clean.png",
+    "logo_white": "/products/bodegas/vivo-o-muerto/logo-white.png",
+    "logo_gold": "/products/bodegas/vivo-o-muerto/logo-gold.png"
+  },
+  {
+    "nombre": "weinert",
+    "carpeta": "weinert",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/weinert/logo-clean.png",
+    "logo_white": "/products/bodegas/weinert/logo-white.png",
+    "logo_gold": "/products/bodegas/weinert/logo-gold.png"
+  },
+  {
+    "nombre": "wine concierge",
+    "carpeta": "wine-concierge",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/wine-concierge/logo-clean.png",
+    "logo_white": "/products/bodegas/wine-concierge/logo-white.png",
+    "logo_gold": "/products/bodegas/wine-concierge/logo-gold.png"
+  },
+  {
+    "nombre": "wine y circo",
+    "carpeta": "wine-y-circo",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/wine-y-circo/logo-clean.png",
+    "logo_white": "/products/bodegas/wine-y-circo/logo-white.png",
+    "logo_gold": "/products/bodegas/wine-y-circo/logo-gold.png"
+  },
+  {
+    "nombre": "wines of sins",
+    "carpeta": "wines-of-sins",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/wines-of-sins/logo-clean.png",
+    "logo_white": "/products/bodegas/wines-of-sins/logo-white.png",
+    "logo_gold": "/products/bodegas/wines-of-sins/logo-gold.png"
+  },
+  {
+    "nombre": "xumek",
+    "carpeta": "xumek",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/xumek/logo-clean.png",
+    "logo_white": "/products/bodegas/xumek/logo-white.png",
+    "logo_gold": "/products/bodegas/xumek/logo-gold.png"
+  },
+  {
+    "nombre": "zorzal",
+    "carpeta": "zorzal",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/zorzal/logo-clean.png",
+    "logo_white": "/products/bodegas/zorzal/logo-white.png",
+    "logo_gold": "/products/bodegas/zorzal/logo-gold.png"
+  },
+  {
+    "nombre": "zuccardi",
+    "carpeta": "zuccardi",
+    "logo_original_detectado": "logo.jpg",
+    "logo_clean": "/products/bodegas/zuccardi/logo-clean.png",
+    "logo_white": "/products/bodegas/zuccardi/logo-white.png",
+    "logo_gold": "/products/bodegas/zuccardi/logo-gold.png"
+  }
+]

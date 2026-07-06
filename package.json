@@ -1,0 +1,31 @@
+{
+  "name": "dolce-vino-next",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "scrape:products": "node scripts/scrape-products.js",
+    "scrape:bodegas": "node scripts/scrape-bodegas.js",
+    "logos:bodegas": "node scripts/normalize-bodega-logos.js",
+    "build:bodegas": "node scripts/build-bodegas-catalog.js",
+    "bottles:clean": "node scripts/remove-bottle-backgrounds.js"
+  },
+  "dependencies": {
+    "next": "14.2.15",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "cheerio": "^1.0.0",
+    "sharp": "^0.33.5"
+  },
+  "devDependencies": {
+    "typescript": "^5",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.15"
+  }
+}
